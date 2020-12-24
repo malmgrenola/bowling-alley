@@ -20,6 +20,7 @@ Website for a bowling alley where the site's users are customers that would like
 [Deployment](#deployment)
 
 [Credits](#credits)
+
 - [Content](#content)
 - [Media](#media)
 - [Acknowledgements](#acknowledgements)
@@ -40,13 +41,36 @@ Site wireframes are linked within this document.
 A collection of all wireframes created can be found in [WIREFRAMES.md](WIREFRAMES.md)
 
 ## Features
+
 The wesite contains a clear navigation on every page.
 The site is based on a navigational hierarchical tree structur.
 Navigation bar is responsive and will fold down to a burger menu when it wont fint the size.
 Each page includes a footer element containing all the neccesary information needed at a glance for the user. This would include links to social media platforms, address information & opening hours.
 ### Existing Features
 
+- Feature 1 - allows users X to achieve Y, by having them fill out Z
+- ...
+
+- Showcase photos of people having fun bowling and inspire people to book their own time.
+- Provide details about upcoming scheduled events.
+- Provide information on the [bowling alley's location](https://www.google.com/maps/place/Radiator+Spring+Gas/@35.529041,-113.2315159,763m/data=!3m1!1e3!4m8!1m2!2m1!1sradiator+springs!3m4!1s0x0:0x2fdf6e3aedfaf45d!8m2!3d35.528886!4d-113.2313894), opening hours, contact details and any external resources.
+- Bowling alley products
+  - Bowling section - allows users to see prices and navigate to booking form
+  - Billiards/Snooker section
+  - Resturant section, Could be split up in Lunch, Dinner, etc
+  - Children's birthday party Section
+- Download booking rules
+- Booking form
+- Newsletter signup
+
 ### Features Left to Implement
+
+- Lane online data presented on site.
+- Live site chat with booking possibilities.
+- Provide company historical information.
+- vacancy section
+- Better map intergration
+- Tripadvisor reviews
 
 ## Technologies Used
 
