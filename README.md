@@ -78,6 +78,12 @@ The footer element is responsive and should flow with the device screen size.
     - Tripadvisor
     - Trustpilot
 
+Selected Typfaces:
+
+- Logo: **Playball**, cursive
+- Header: **Lato**, sans-serif
+- Text: **Raleway**, sans-serif
+
 ### Existing Features
 
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
@@ -122,6 +128,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ### Content
 
+- Fonts for the website (Raleway, Lato, Playball) is provided from [Google Fonts](https://fonts.google.com/)
 ### Media
 
 - The photos used in this site were obtained from ...
