@@ -45,7 +45,39 @@ A collection of all wireframes created can be found in [WIREFRAMES.md](WIREFRAME
 The wesite contains a clear navigation on every page.
 The site is based on a navigational hierarchical tree structur.
 Navigation bar is responsive and will fold down to a burger menu when it wont fint the size.
+[Navigation bar wireframe example](docs/wireframes/wf-navigation.png)
+
+- Navigation items:
+  - Home (logo)
+  - Bowling
+  - Billiards/Snooker
+  - Find us
+  - Resturant
+  - Booking
+
 Each page includes a footer element containing all the neccesary information needed at a glance for the user. This would include links to social media platforms, address information & opening hours.
+Additional elements such as booking rules download, gdpr information, vacancy Section can also be found in the footer.
+The footer element is responsive and should flow with the device screen size.
+[Footer wireframe example](docs/wireframes/wf-footer.png)
+
+- Footer items:
+  - Opening hours
+    - Sunday to Thursday 13:00 to 22:00
+    - Friday to Saturday 13:00 to 02:00
+    - Holidays 13:00 to 02:00
+  - Find us
+    - Address (link to map)
+    - phone
+    - email
+    - Contact us
+  - Social
+    - Facebook
+    - Instagram
+    - Twitter
+    - Youtube
+    - Tripadvisor
+    - Trustpilot
+
 ### Existing Features
 
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
