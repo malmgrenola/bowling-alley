@@ -45,6 +45,7 @@ A collection of all wireframes created can be found in [WIREFRAMES.md](WIREFRAME
 The wesite contains a clear navigation on every page.
 The site is based on a navigational hierarchical tree structur.
 Navigation bar is responsive and will fold down to a burger menu when it wont fint the size.
+
 [Navigation bar wireframe example](docs/wireframes/wf-navigation.png)
 
 - Navigation items:
@@ -78,11 +79,21 @@ The footer element is responsive and should flow with the device screen size.
     - Tripadvisor
     - Trustpilot
 
+Each page needs a hero image acting as identification for the section.
+[Hero wireframe example](WIREFRAMES.md#general-layout)
+
+![Index layout](docs/wireframes/wf-index.png)
+Index layout
+
 Selected Typfaces:
 
 - Logo: **Playball**, cursive
 - Header: **Lato**, sans-serif
 - Text: **Raleway**, sans-serif
+
+The sites color schema wireframe
+
+![color schema examples](docs/wireframes/wf-color.png)
 
 ### Existing Features
 
