@@ -132,6 +132,46 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## Testing
 
+All HTML and CSS is validated with [W3C Validator](https://validator.w3.org/)
+
+As specified in [User's guide for the W3C Markup Validator](https://dev.w3.org/validator/htdocs/docs/users.html) calls can be made to the validator.
+
+The validation process of this site can be done by validating each page url in this list:
+
+- [validate index.html](http://validator.w3.org/check?uri=https%3A%2F%2Fboffins.se%2F)
+- [validate style.css](http://validator.w3.org/check?uri=https%3A%2F%2Fboffins.se%2Fwp-content%2Fthemes%2Ftwentyseventeen%2Fstyle.css?ver=4.9.16)
+
+Amazon Devie Farm is used for devie testing
+Selected devices is tageted:
+
+- Samsung Galaxy A40 (OS 9.0)
+- Samsung Galaxy S9 (OS 8.0.0)
+- Samsung Galaxy Tab S4 (OS 8.1.1)
+- Apple iPhone 11 (OS 13.1.3)
+- Apple iPad Pro 11 (OS 12.1)
+- Apple iPhone 12 Pro Max (OS 14.3)
+- Apple Macbook Pro ([Chrome](https://www.google.com/chrome/), [Safari](https://www.apple.com/safari/), [Firefox](https://www.mozilla.org/en-US/firefox/new/))
+- Azus ZenBook ([Chrome](https://www.google.com/chrome/), [Microsoft Edge](https://www.microsoft.com/en-us/edge), [Firefox](https://www.mozilla.org/en-US/firefox/new/))
+
+Login's for accounts to Device services [1Password](https://1password.com)
+Please contact [Ola Malmgren](mailto:malmgrenola@gmail.com) for access.
+
+Itterate all user stories in the UX Section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+
+No automated Tests is setup for this project.
+
+1. Layout:
+   1. Navigate to the Main Page And confirm layout.
+   2. [Add all Layouts] layout.
+   3. Confirm Header & Footer on all pages.
+2. Contact form:
+   1. Go to the "Find us" page
+   2. Try to submit the empty form and verify that an error message about the required fields appears
+   3. Try to submit the form with an invalid email address and verify that a relevant error message appears
+   4. Try to submit the form with all inputs valid and verify that a success message appears.
+
+This section mentions how the project looks and works on different browsers and screen sizes.
+
 ### Known issues
 
 ## Deployment
