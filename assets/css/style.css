@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Playball&family=Raleway&display=swap");
+
+/* Bowling Alley fonts */
+.bowling-ally-logo {
+  font-family: "Playball", cursive;
+}
+.bowling-ally-heder {
+  font-family: "Raleway", sans-serif;
+}
+
+.bowling-ally-text {
+  font-family: "Lato", sans-serif;
+}
+
+/* Bowling alley colors */
+.bowling-ally-1-hex {
+  color: #3f0061;
+}
+.bowling-ally-2-hex {
+  color: #003c61;
+}
+.bowling-ally-3-hex {
+  color: #18614a;
+}
+.bowling-ally-4-hex {
+  color: #613901;
+}
+.bowling-ally-5-hex {
+  color: #61291a;
+}

@@ -191,6 +191,12 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Content
 
 - Fonts for the website (Raleway, Lato, Playball) is provided from [Google Fonts](https://fonts.google.com/)
+
+- Color inspiration from [Adobe Color](https://color.adobe.com/), [ColorSpace](https://mycolor.space/) & [colormind](http://colormind.io/)
+- Wireframes built using [Balsamiq](https://balsamiq.com/)
+- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+-
+
 ### Media
 
 - The photos used in this site were obtained from ...
