@@ -138,8 +138,8 @@ As specified in [User's guide for the W3C Markup Validator](https://dev.w3.org/v
 
 The validation process of this site can be done by validating each page url in this list:
 
-- [validate index.html](http://validator.w3.org/check?uri=https%3A%2F%2Fboffins.se%2F)
-- [validate style.css](http://validator.w3.org/check?uri=https%3A%2F%2Fboffins.se%2Fwp-content%2Fthemes%2Ftwentyseventeen%2Fstyle.css?ver=4.9.16)
+- [validate index.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
+- [validate style.css](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Fassets%2Fcss%2Fstyle.css)
 
 Amazon Devie Farm is used for devie testing
 Selected devices is tageted:
