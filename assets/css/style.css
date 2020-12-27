@@ -29,10 +29,20 @@
   color: #61291a;
 }
 
-h1 {
-  font-family: "Raleway", sans-serif;
+/*--------------------------------------------- Header */
+
+nav {
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
-p {
-  font-family: "Lato", sans-serif;
+.nav-item {
+  text-align: center;
+}
+
+.logo {
+  font-family: "Playball", cursive;
+  font-size: 35px;
+}
+.content {
+  margin-top: 80px;
 }
