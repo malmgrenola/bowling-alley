@@ -77,7 +77,7 @@ The footer element is responsive and should flow with the device screen size.
     - Twitter
     - Youtube
     - Tripadvisor
-    - Trustpilot
+    - Linkedin
 
 Each page needs a hero image acting as identification for the section.
 [Hero wireframe example](WIREFRAMES.md#general-layout)
@@ -119,7 +119,7 @@ The sites color schema wireframe
 - Provide company historical information.
 - vacancy section
 - Better map intergration
-- Tripadvisor reviews
+- Tripadvisor reviews and links
 
 ## Technologies Used
 
@@ -225,6 +225,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - Color inspiration from [Adobe Color](https://color.adobe.com/), [ColorSpace](https://mycolor.space/) & [colormind](http://colormind.io/)
 - Wireframes built using [Balsamiq](https://balsamiq.com/)
 - The navbar consists modified examples from [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/components/navbar/)
+- Icons used are linked from [Fontawesome](https://fontawesome.com/)
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 -
 

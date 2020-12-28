@@ -30,7 +30,9 @@
 }
 
 /*--------------------------------------------- Header */
-
+body {
+  padding-top: 80px;
+}
 nav {
   background-color: rgba(0, 0, 0, 0.8);
 }
@@ -38,11 +40,16 @@ nav {
 .nav-item {
   text-align: center;
 }
+.social-links {
+  padding: 0;
+}
 
+.social-links li a i {
+  height: 40px;
+  width: 40px;
+  font-size: 40px;
+}
 .logo {
   font-family: "Playball", cursive;
   font-size: 35px;
-}
-.content {
-  margin-top: 80px;
 }
