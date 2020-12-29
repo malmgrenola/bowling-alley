@@ -232,6 +232,18 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Media
 
 - The photos used in this site were obtained from ...
+- https://www.pexels.com/sv-se/foto/aktivitet-blixtnedslag-boll-bowling-4192/
+- https://www.pexels.com/sv-se/foto/blixtnedslag-bowling-bowling-stift-inomhus-344029/
+- https://www.pexels.com/sv-se/foto/ljus-mode-man-ansiktslosa-5743695/
+- https://unsplash.com/photos/yk2VUa5vtA0
+- https://unsplash.com/photos/IoBCIosXkH8
+- https://unsplash.com/photos/m4o5RuY1waY
+- https://unsplash.com/photos/rrHl2zGZ9E4
+- https://www.stockvault.net/photo/203821/bowling-alley
+- https://www.stockvault.net/photo/236858/bowling-alley
+- https://pixabay.com/photos/bowling-pins-ball-playing-alley-596766/
+-
+-
 
 ### Acknowledgements
 
