@@ -29,6 +29,22 @@
   color: #61291a;
 }
 
+.bg-color-1 {
+  background-color: #3f0061;
+}
+.bg-color-2 {
+  background-color: #003c61;
+}
+.bg-color-3 {
+  background-color: #18614a;
+}
+.bg-color-4 {
+  background-color: #613901;
+}
+.bg-color-5 {
+  background-color: #61291a;
+}
+
 /*--------------------------------------------- General */
 body {
 }
