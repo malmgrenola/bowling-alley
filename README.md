@@ -242,9 +242,14 @@ In addition, if it is not obvious, you should also describe how to run your code
 - https://www.stockvault.net/photo/203821/bowling-alley
 - https://www.stockvault.net/photo/236858/bowling-alley
 - https://pixabay.com/photos/bowling-pins-ball-playing-alley-596766/
+- https://www.pexels.com/sv-se/foto/sallskapsspel-bollar-skarpedjup-biljard-2017868/
+- https://www.pexels.com/sv-se/foto/person-hander-kvinna-flicka-2705756/
+- https://www.pexels.com/sv-se/foto/bbq-biff-flask-gourmet-675951/
+- https://unsplash.com/photos/ND_kgsnEIeY
 -
 -
 
 ### Acknowledgements
 
 - I received inspiration for this project from X
+- https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/

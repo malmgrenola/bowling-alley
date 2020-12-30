@@ -92,3 +92,51 @@ footer {
   background-size: cover;
   position: relative;
 }
+.index-products .list-inline-item:not(:last-child) {
+  margin-right: 0;
+}
+.index-products li a {
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.5em;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: white;
+  text-align: center;
+  padding: 100px 0;
+  display: block;
+  margin: 0;
+}
+.index-products li {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.index-products__bowling {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/bowling-596766_1920.jpg");
+}
+.index-products__bday {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/derek-martin-m4o5RuY1waY-unsplash.jpg");
+}
+.index-products__billiards {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/pexels-tomaz-barcellos-2017868.jpg");
+}
+.index-products__findus {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/pexels-elina-sazonova-2705756.jpg");
+}
+.index-products__resturants {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/pexels-snapwire-675951.jpg");
+}
+.index-products__booking {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/ray-reyes-ND_kgsnEIeY-unsplash.jpg");
+}
+.index-products li a:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
