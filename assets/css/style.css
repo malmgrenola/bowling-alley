@@ -79,7 +79,33 @@ section ul {
 }
 
 /*--------------------------------------------- Footer */
-footer {
+footer h2 {
+  display: block;
+
+  border-bottom: 1px solid white;
+}
+
+footer ul {
+  padding: 0;
+  margin-top: 30px;
+}
+
+footer .nav-link {
+  color: white;
+}
+footer .nav-link:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+footer li a i {
+  height: 40px;
+  width: 40px;
+  font-size: 40px;
+}
+
+footer h2,
+footer ul {
+  margin: 10px;
+  padding: 0;
 }
 
 /*--------------------------------------------- Index */
