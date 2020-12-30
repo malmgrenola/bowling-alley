@@ -49,13 +49,14 @@
 body {
 }
 
-section {
+section ul {
+  margin-bottom: 0;
 }
 
 /*--------------------------------------------- Header */
 
-nav {
-  background-color: rgba(0, 0, 0, 0.8);
+.bg-navbar {
+  background-color: rgba(0, 0, 0, 0.85);
 }
 
 .nav-item {
@@ -139,4 +140,14 @@ footer {
 }
 .index-products li a:hover {
   background-color: rgba(0, 0, 0, 0.3);
+}
+.index-newsletter {
+  padding: 20px 0;
+}
+.index-newsletter h2 {
+  padding: 0;
+  margin: 0;
+}
+.index-newsletter form {
+  margin: 0 0 20px 0;
 }
