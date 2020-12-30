@@ -175,7 +175,7 @@
           <div class="col text-center index-newsletter">
             <h2>Newsletter</h2>
             <p>Stay up to date with all our events.</p>
-            <form class="" action="index.html" method="post">
+            <form action="javascript:void(0);">
               <div class="container">
                 <div class="row justify-content-md-center">
                   <div class="col-12 col-lg-3 p-2">
@@ -189,7 +189,13 @@
                     />
                   </div>
                   <div class="col-12 col-sm-1 p-2">
-                    <button type="submit" class="btn btn-outline-light">
+                    <button
+                      id="newsletter-submit"
+                      type="button"
+                      class="btn btn-outline-light"
+                      data-bs-toggle="modal"
+                      data-bs-target="#exampleModal"
+                    >
                       Submit
                     </button>
                   </div>
@@ -268,5 +274,44 @@
       integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
       crossorigin="anonymous"
     ></script>
+    <div
+      class="modal fade"
+      id="exampleModal"
+      tabindex="-1"
+      aria-labelledby="exampleModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">
+              Your are up to date!
+            </h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            Thanks for signing up to our newsletter.<br />
+            <small
+              >(nothing has been signed up, but it would have worked
+              fine!)</small
+            >
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-bs-dismiss="modal"
+            >
+              Got it!
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
   </body>
 </html>

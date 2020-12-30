@@ -79,9 +79,12 @@ section ul {
 }
 
 /*--------------------------------------------- Footer */
+footer {
+  color: white;
+}
+
 footer h2 {
   display: block;
-
   border-bottom: 1px solid white;
 }
 
