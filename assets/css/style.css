@@ -133,6 +133,11 @@ footer ul {
   padding: 100px 0;
   display: block;
   margin: 0;
+
+  transition: all 0.15s ease-in-out;
+  -moz-transition: all 0.15s ease-in-out;
+  -webkit-transition: all 0.15s ease-in-out;
+  -o-transition: all 0.15s ease-in-out;
 }
 .index-products li {
   background-position: center;
