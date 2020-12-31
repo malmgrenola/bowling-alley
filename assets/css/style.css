@@ -90,6 +90,9 @@ footer h2 {
 footer h2 i {
   padding-right: 10px;
 }
+footer td {
+  padding-right: 5px;
+}
 footer ul {
   padding: 0;
   margin-top: 30px;
