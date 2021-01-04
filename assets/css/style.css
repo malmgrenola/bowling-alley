@@ -192,3 +192,8 @@ footer ul {
 .index-newsletter form {
   margin: 0 0 20px 0;
 }
+
+/*--------------------------------------------- Footer */
+:target {
+  scroll-margin-top: 80px;
+}
