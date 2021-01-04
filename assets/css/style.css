@@ -47,10 +47,15 @@
 
 /*--------------------------------------------- General */
 body {
+  background-color: #0e1012;
 }
 
 section ul {
   margin-bottom: 0;
+}
+
+:target {
+  scroll-margin-top: 80px;
 }
 
 /*--------------------------------------------- Header */
@@ -78,6 +83,11 @@ section ul {
   font-size: 35px;
 }
 
+.hero-background {
+  height: 50vh;
+  position: relative;
+}
+
 /*--------------------------------------------- Footer */
 footer {
   color: white;
@@ -89,6 +99,7 @@ footer h2 {
 }
 footer h2 i {
   padding-right: 10px;
+  font-size: 25px;
 }
 footer td {
   padding-right: 5px;
@@ -117,16 +128,14 @@ footer ul {
 }
 
 /*--------------------------------------------- Index */
-.hero-index {
+.hero-background__index {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
     url("../images/pexels-matthias-zomer-344029.jpg");
-
-  height: 33vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
 }
+
 .index-products .list-inline-item:not(:last-child) {
   margin-right: 0;
 }
@@ -189,4 +198,46 @@ footer ul {
 }
 .index-newsletter form {
   margin: 0 0 20px 0;
+}
+
+/*--------------------------------------------- Bowling */
+.hero-background__bowling {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../images/bowling-596766_1920.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*--------------------------------------------- Billiards */
+.hero-background__billiards {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../images/pexels-tomaz-barcellos-2017868.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*--------------------------------------------- Find us */
+.hero-background__findus {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../images/pexels-elina-sazonova-2705756.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*--------------------------------------------- Resturant */
+.hero-background__resturant {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../images/pexels-snapwire-675951.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*--------------------------------------------- Booking */
+.hero-background__booking {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../images/ray-reyes-ND_kgsnEIeY-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }

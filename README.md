@@ -36,6 +36,7 @@ Another category is a typical midage person, with children, using the website on
 - As a user, I want to book a children birthday party, so that I be ensured that my child with friends get a great party.
 - As a user I can find to all avalible social media platforms
 - as a user I would like to find all contact information so I can locate and contact the company.
+- as a user I can find the resturant meny.
 
 Site wireframes are linked within this document.
 A collection of all wireframes created can be found in [WIREFRAMES.md](WIREFRAMES.md)
@@ -44,7 +45,7 @@ A collection of all wireframes created can be found in [WIREFRAMES.md](WIREFRAME
 
 The wesite contains a clear navigation on every page.
 The site is based on a navigational hierarchical tree structur.
-Navigation bar is responsive and will fold down to a burger menu when it wont fint the size.
+Navigation bar is responsive and will fold down to a burger menu when it wont fit the size.
 
 [Navigation bar wireframe example](docs/wireframes/wf-navigation.png)
 
@@ -116,9 +117,9 @@ The sites color schema wireframe
 
 - Lane online data presented on site.
 - Live site chat with booking possibilities.
-- Provide company historical information.
-- vacancy section
-- Better map intergration
+- Provide company historical information and about section.
+- vacancy section.
+- Better map intergration.
 - Tripadvisor reviews and links
 
 ## Technologies Used
@@ -129,14 +130,13 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [CSS]()
 - [Bootstrap]()
   - Grid feature is used to help layout the website.
+  - Modal is used to catch forms, since forms backend is not implemented yet
 
 ## Testing
 
 All HTML and CSS is validated with [W3C Validator](https://validator.w3.org/)
 
 As specified in [User's guide for the W3C Markup Validator](https://dev.w3.org/validator/htdocs/docs/users.html) calls can be made to the validator.
-
-The validation process of this site can be done by validating each page url in this list:
 
 - [validate index.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
 - [validate style.css](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Fassets%2Fcss%2Fstyle.css)
@@ -160,15 +160,23 @@ Itterate all user stories in the UX Section and ensure that they all work as int
 
 No automated Tests is setup for this project.
 
-1. Layout:
+1. Validator tests
+
+   1. [validate index.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
+   2. [validate style.css](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Fassets%2Fcss%2Fstyle.css)
+   3.
+
+2. Layout:
    1. Navigate to the Main Page And confirm layout.
    2. [Add all Layouts] layout.
    3. Confirm Header & Footer on all pages.
-2. Contact form:
-   1. Go to the "Find us" page
-   2. Try to submit the empty form and verify that an error message about the required fields appears
-   3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-   4. Try to submit the form with all inputs valid and verify that a success message appears.
+3. Forms:
+   1. Go to the main page and confirm modal popup when you sign up
+4. External links
+   1. Navigate to Main page and confirm that all six (6) Social icons ends up in a "\_Blank" window and links to correct url.
+5. Lighthouse Scoring
+   1. open devtools in google chrome and press "Generate report" for Desktop device & Mobile Devices.
+   2. Confirm results and correct if needed.
 
 This section mentions how the project looks and works on different browsers and screen sizes.
 
@@ -180,9 +188,9 @@ This section also mentions any interesting bugs or problems you discovered durin
 
 Social icons & links on site has the url's set to generic social media sites and not to any propper social account.
 
-#### 2 - Contact Form
+#### 2 - Newsletter signup Form
 
-Contact form ends on code Institute "form dump" endpoint and does not redirect correctly to the site with propper feedback.
+Newsletter signup form ends up in a modal popup to confirm the button have been pressed.
 
 <!--
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
@@ -204,7 +212,15 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 -->
 
-## Deployment
+## Development & Deployment
+
+Development on this site happens primary on branch [main](https://github.com/malmgrenola/bowling-alley/tree/main)
+If you would like to contribute please fork repo and open pull requests.
+Before opening pull requests, please confirm all items in [Testing](#Testing) section in this document.
+
+Deployment is done by opening a Pull Request where 'main' is compared to 'production'.
+
+This site is currently deployed with gitHub Pages. How to deploy is found [here](https://pages.github.com/).
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
