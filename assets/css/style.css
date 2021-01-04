@@ -64,6 +64,15 @@ section ul {
   background-color: rgba(0, 0, 0, 0.85);
 }
 
+.navbar,
+.navbar-toggler-icon {
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
 .nav-item {
   text-align: center;
   font-size: 1.2em;
