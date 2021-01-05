@@ -8,6 +8,7 @@ Website for a bowling alley where the site's users are customers that would like
 
 [Features](#features)
 
+- [Pages - wireframes](#pages-wireframes)
 - [Existing Features](#existing-features)
 - [Features Left to Implement](#features-left-to-implement)
 
@@ -81,10 +82,61 @@ The footer element is responsive and should flow with the device screen size.
     - Linkedin
 
 Each page needs a hero image acting as identification for the section.
-[Hero wireframe example](WIREFRAMES.md#general-layout)
+Where needed the hero image also contains the page header.
 
-![Index layout](docs/wireframes/wf-index.png)
-Index layout
+### Pages - wireframes
+
+- [Index page](docs/wireframes/wf-index.png)
+- [Bowling page](docs/wireframes/wf-bowling.png)
+- [Billiards page](docs/wireframes/wf-billiards.png)
+- [Find us page](docs/wireframes/wf-findus.png)
+- [Resturants page](docs/wireframes/wf-resturants.png)
+- [Bookning page](docs/wireframes/wf-booking.png)
+
+**Bowling content**
+Here at Bowling Alley you and your friends can enjoy bowling on the greatest lanes with the finest equipment.
+All our lanes are olied daily to max out your bowling experience. Our bowling balls spans from the lightest 6lb to the heaviest 14lb with gripsizes all the way from XXS to XXL and we have all sizes shoes you would ever need. For the youngest the shoes are velcro fastening ones.
+
+Price per lane and hour is **USD 35**. max 6 people per lane and shoes is included in price.
+
+It is possible to order drinks and snacks from the bar at any time.
+Water is always avalible without charge.
+
+**Book your bowling today!**
+
+**Bowling birthday party content**
+Book the awsome birthday party here at Bowling Alley. We will make the party fantastic, fun, easy and unforgettable!
+The kids get unlimited bowling, unlimited drinks and unlimited snacks during the birthday event.
+
+Price per birthday party is **USD 25** per person.
+
+**Book birthday party today!**
+
+**Billiards content**
+Enjoy classic billiards! On Bowling Alley you can play billiards and Snooker. Table's and asseories has the highest avalible standard.
+
+Price per table is **USD 35**. max 4 people can play per table.
+
+It is possible to order drinks and snacks from the bar at any time.
+Water is always avalible without charge.
+
+**findus content**
+
+Bowling Alley
+115 AZ-66, Seligman,
+AZ 86337
+USA
+
+Phone: 555 123 456
+Email: fun@bowlingalley.not
+
+https://maps.googleapis.com/maps/api/staticmap?center=Boston,MA&visible=77+Massachusetts+Ave,Cambridge,MA%7CHarvard+Square,Cambridge,MA&size=512x512&key=AIzaSyDtEf1XrnrAJYLbOolhUng71M01typu1Yo
+
+https://maps.googleapis.com/maps/api/staticmap?center=Seligman,+Arizona+86337,+USA/@35.5295059,-113.2333092,889m/data=!3m2!1e3!4b1!4m12!1m6!3m5!1s0x0:0x2fdf6e3aedfaf45d!2sRadiator+Spring+Gas!8m2!3d35.5288858!4d-113.2313893!3m4!1s0x80cd050269ced2e9:0xb8f756f748e0b206!8m2!3d35.5295262!4d-113.2314753&size=512x512&key=AIzaSyDtEf1XrnrAJYLbOolhUng71M01typu1Yo
+
+[maplink](https://www.google.com/maps/place/Seligman,+Arizona+86337,+USA/@35.5295059,-113.2333092,889m/data=!3m2!1e3!4b1!4m12!1m6!3m5!1s0x0:0x2fdf6e3aedfaf45d!2sRadiator+Spring+Gas!8m2!3d35.5288858!4d-113.2313893!3m4!1s0x80cd050269ced2e9:0xb8f756f748e0b206!8m2!3d35.5295262!4d-113.2314753)
+
+**Resturant content**
 
 Selected Typfaces:
 
@@ -93,7 +145,6 @@ Selected Typfaces:
 - Text: **Raleway**, sans-serif
 
 The sites color schema wireframe
-
 ![color schema examples](docs/wireframes/wf-color.png)
 
 ### Existing Features
@@ -106,7 +157,7 @@ The sites color schema wireframe
 - Provide information on the [bowling alley's location](https://www.google.com/maps/place/Radiator+Spring+Gas/@35.529041,-113.2315159,763m/data=!3m1!1e3!4m8!1m2!2m1!1sradiator+springs!3m4!1s0x0:0x2fdf6e3aedfaf45d!8m2!3d35.528886!4d-113.2313894), opening hours, contact details and any external resources.
 - Bowling alley products
   - Bowling section - allows users to see prices and navigate to booking form
-  - Billiards/Snooker section
+  - Billiards section
   - Resturant section, Could be split up in Lunch, Dinner, etc
   - Children's birthday party Section
 - Download booking rules
@@ -121,6 +172,9 @@ The sites color schema wireframe
 - vacancy section.
 - Better map intergration.
 - Tripadvisor reviews and links
+- Bowling tips
+- billiard tips
+- Enhance birthday bowling with kids & teens section
 
 ## Technologies Used
 
@@ -131,6 +185,8 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [Bootstrap]()
   - Grid feature is used to help layout the website.
   - Modal is used to catch forms, since forms backend is not implemented yet
+- Google static map
+  - For the find us map
 
 ## Testing
 
@@ -267,5 +323,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+I received inspiration for this project from:
+
+- https://www.hollywoodbowl.co.uk/
+- https://www.strikebowling.com.au/
+- https://www.amf.com/
+- https://pinstackbowl.com/
 - https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
+- https://stackoverflow.com/questions/39367946/duplicate-an-element-and-overlay-it-using-css
