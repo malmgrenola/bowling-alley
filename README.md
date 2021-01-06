@@ -40,7 +40,6 @@ Another category is a typical midage person, with children, using the website on
 - as a user I can find the resturant meny.
 
 Site wireframes are linked within this document.
-A collection of all wireframes created can be found in [WIREFRAMES.md](WIREFRAMES.md)
 
 ## Features
 
@@ -87,7 +86,7 @@ Where needed the hero image also contains the page header.
 ### Pages - wireframes
 
 - [Index page](docs/wireframes/wf-index.png)
-- [Activity page](docs/wireframes/wf-activities.png)
+- [Activities page](docs/wireframes/wf-activities.png)
 - [Find us page](docs/wireframes/wf-findus.png)
 - [Resturants page](docs/wireframes/wf-resturants.png)
 - [Bookning page](docs/wireframes/wf-booking.png)
@@ -121,7 +120,7 @@ Price per table is **USD 35**. max 4 people can play per table.
 It is possible to order drinks and snacks from the bar at any time.
 Water is always avalible without charge.
 
-**findus content**
+**Find us content**
 
 Bowling Alley
 115 AZ-66, Seligman,
@@ -131,11 +130,7 @@ USA
 Phone: 555 123 456
 Email: fun@bowlingalley.not
 
-https://maps.googleapis.com/maps/api/staticmap?center=Boston,MA&visible=77+Massachusetts+Ave,Cambridge,MA%7CHarvard+Square,Cambridge,MA&size=512x512&key=AIzaSyDtEf1XrnrAJYLbOolhUng71M01typu1Yo
-
-https://maps.googleapis.com/maps/api/staticmap?center=Seligman,+Arizona+86337,+USA/@35.5295059,-113.2333092,889m/data=!3m2!1e3!4b1!4m12!1m6!3m5!1s0x0:0x2fdf6e3aedfaf45d!2sRadiator+Spring+Gas!8m2!3d35.5288858!4d-113.2313893!3m4!1s0x80cd050269ced2e9:0xb8f756f748e0b206!8m2!3d35.5295262!4d-113.2314753&size=512x512&key=AIzaSyDtEf1XrnrAJYLbOolhUng71M01typu1Yo
-
-[maplink](https://www.google.com/maps/place/Seligman,+Arizona+86337,+USA/@35.5295059,-113.2333092,889m/data=!3m2!1e3!4b1!4m12!1m6!3m5!1s0x0:0x2fdf6e3aedfaf45d!2sRadiator+Spring+Gas!8m2!3d35.5288858!4d-113.2313893!3m4!1s0x80cd050269ced2e9:0xb8f756f748e0b206!8m2!3d35.5295262!4d-113.2314753)
+[maplink](https://maps.googleapis.com/maps/api/staticmap?center=Seligman,+Arizona+86337,+USA/@35.5295059,-113.2333092,889m/data=!3m2!1e3!4b1!4m12!1m6!3m5!1s0x0:0x2fdf6e3aedfaf45d!2sRadiator+Spring+Gas!8m2!3d35.5288858!4d-113.2313893!3m4!1s0x80cd050269ced2e9:0xb8f756f748e0b206!8m2!3d35.5295262!4d-113.2314753&size=400x200&scale=2&format=png&key=AIzaSyDtEf1XrnrAJYLbOolhUng71M01typu1Yo+)
 
 **Resturant content**
 
@@ -153,20 +148,20 @@ The sites color schema wireframe
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
 - ...
 
-- Showcase photos of people having fun bowling and inspire people to book their own time.
-- Provide details about upcoming scheduled events.
-- Provide information on the [bowling alley's location](https://www.google.com/maps/place/Radiator+Spring+Gas/@35.529041,-113.2315159,763m/data=!3m1!1e3!4m8!1m2!2m1!1sradiator+springs!3m4!1s0x0:0x2fdf6e3aedfaf45d!8m2!3d35.528886!4d-113.2313894), opening hours, contact details and any external resources.
-- Bowling alley products
+* Provide information on the [bowling alley's location](https://www.google.com/maps/place/Radiator+Spring+Gas/@35.529041,-113.2315159,763m/data=!3m1!1e3!4m8!1m2!2m1!1sradiator+springs!3m4!1s0x0:0x2fdf6e3aedfaf45d!8m2!3d35.528886!4d-113.2313894), opening hours, contact details and any external resources.
+* Bowling alley activities
   - Bowling section - allows users to see prices and navigate to booking form
-  - Billiards section
-  - Resturant section, Could be split up in Lunch, Dinner, etc
+  - Billiards section - allows users to see prices and navigate to booking form
+  - Resturant section - allows users to see menu
   - Children's birthday party Section
-- Download booking rules
-- Booking form
-- Newsletter signup
+* Download booking rules
+* Booking form
+* Newsletter signup
 
 ### Features Left to Implement
 
+- Showcase photos of people having fun bowling and inspire people to book their own time.
+- Provide details about upcoming scheduled events.
 - Lane online data presented on site.
 - Live site chat with booking possibilities.
 - Provide company historical information and about section.
@@ -181,13 +176,13 @@ The sites color schema wireframe
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [HTML5]()
-- [CSS]()
-- [Bootstrap]()
+- [HTML5](https://www.w3.org/TR/html52/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [Bootstrap](https://getbootstrap.com/)
   - Grid feature is used to help layout the website.
   - Modal is used to catch forms, since forms backend is not implemented yet
-- Google static map
-  - For the find us map
+- [Google Maps static API](https://developers.google.com/maps/documentation/maps-static)
+  - For the find us map (key is restricted)
 
 ## Testing
 
