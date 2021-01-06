@@ -120,6 +120,7 @@ Water is always avalible without charge.
 
 Book the awsome birthday party here at Bowling Alley. We will make the party fantastic, fun, easy and unforgettable!
 The kids get unlimited bowling, unlimited drinks and unlimited snacks during the birthday event.
+There is always a dedicated Party Host avalible.
 
 Price per birthday party is **USD 25** per person.
 
@@ -147,6 +148,16 @@ Email: fun@bowlingalley.not
 [maplink](https://maps.googleapis.com/maps/api/staticmap?center=Seligman,+Arizona+86337,+USA/@35.5295059,-113.2333092,889m/data=!3m2!1e3!4b1!4m12!1m6!3m5!1s0x0:0x2fdf6e3aedfaf45d!2sRadiator+Spring+Gas!8m2!3d35.5288858!4d-113.2313893!3m4!1s0x80cd050269ced2e9:0xb8f756f748e0b206!8m2!3d35.5295262!4d-113.2314753&size=400x200&scale=2&format=png&key=AIzaSyDtEf1XrnrAJYLbOolhUng71M01typu1Yo+)
 
 ##### Resturant content
+
+**Dine**
+Never be hungry! Our resturant offers menus that will leave you speachless.
+Try our burgers or chickenwings!
+Our resturant are Open!
+**Download menu**
+
+**Wine**
+You can always find a good spot for a glass of wine in our bar area.
+The selection of good wines is frequently updated but we always keep your favourites avalible.
 
 #### Style Information
 
@@ -318,8 +329,10 @@ In addition, if it is not obvious, you should also describe how to run your code
 - https://www.pexels.com/sv-se/foto/person-hander-kvinna-flicka-2705756/
 - https://www.pexels.com/sv-se/foto/bbq-biff-flask-gourmet-675951/
 - https://unsplash.com/photos/ND_kgsnEIeY
--
--
+- https://www.pexels.com/sv-se/foto/rostat-brod-man-manniskor-kvinna-3171815/
+- https://www.pexels.com/sv-se/foto/natt-vanner-middag-bord-5018987/
+- https://www.pexels.com/sv-se/foto/brod-bullar-burger-kott-1633578/
+- https://www.pexels.com/sv-se/foto/brod-mat-tallrik-maltid-3616956/
 
 ### Acknowledgements
 
