@@ -8,8 +8,9 @@ Website for a bowling alley where the site's users are customers that would like
 
 [Features](#features)
 
-- [Pages - wireframes](#pages-wireframes)
 - [Existing Features](#existing-features)
+  - [Site content](#site-content)
+  - [Style Information](#style-information)
 - [Features Left to Implement](#features-left-to-implement)
 
 [Technologies Used](#technologies-used)
@@ -39,7 +40,13 @@ Another category is a typical midage person, with children, using the website on
 - as a user I would like to find all contact information so I can locate and contact the company.
 - as a user I can find the resturant meny.
 
-Site wireframes are linked within this document.
+Site wireframes:
+
+- [Index page](docs/wireframes/wf-index.png)
+- [Activities page](docs/wireframes/wf-activities.png)
+- [Find us page](docs/wireframes/wf-findus.png)
+- [Resturants page](docs/wireframes/wf-resturant.png)
+- [Bookning page](docs/wireframes/wf-booking.png)
 
 ## Features
 
@@ -83,17 +90,22 @@ The footer element is responsive and should flow with the device screen size.
 Each page needs a hero image acting as identification for the section.
 Where needed the hero image also contains the page header.
 
-### Pages - wireframes
+### Existing Features
 
-- [Index page](docs/wireframes/wf-index.png)
-- [Activities page](docs/wireframes/wf-activities.png)
-- [Find us page](docs/wireframes/wf-findus.png)
-- [Resturants page](docs/wireframes/wf-resturant.png)
-- [Bookning page](docs/wireframes/wf-booking.png)
+- Provide information on the [bowling alley's location](https://www.google.com/maps/place/Radiator+Spring+Gas/@35.529041,-113.2315159,763m/data=!3m1!1e3!4m8!1m2!2m1!1sradiator+springs!3m4!1s0x0:0x2fdf6e3aedfaf45d!8m2!3d35.528886!4d-113.2313894), opening hours, contact details and any external resources.
+- Bowling alley activities
+  - Bowling section - allows users to see prices and navigate to booking form
+  - Billiards section - allows users to see prices and navigate to booking form
+  - Resturant section - allows users to see menu
+  - Children's birthday party Section
+- Download booking rules
+- Booking form
+- Newsletter signup
 
-**Activities content**
+#### Site content
 
-**Bowling content**
+##### Bowling content
+
 Here at Bowling Alley you and your friends can enjoy bowling on the greatest lanes with the finest equipment.
 All our lanes are olied daily to max out your bowling experience. Our bowling balls spans from the lightest 6lb to the heaviest 14lb with gripsizes all the way from XXS to XXL and we have all sizes shoes you would ever need. For the youngest the shoes are velcro fastening ones.
 
@@ -104,7 +116,8 @@ Water is always avalible without charge.
 
 **Book your bowling today!**
 
-**Bowling birthday party content**
+##### Bowling birthday party content
+
 Book the awsome birthday party here at Bowling Alley. We will make the party fantastic, fun, easy and unforgettable!
 The kids get unlimited bowling, unlimited drinks and unlimited snacks during the birthday event.
 
@@ -112,7 +125,8 @@ Price per birthday party is **USD 25** per person.
 
 **Book birthday party today!**
 
-**Billiards content**
+##### Billiards content
+
 Enjoy classic billiards! On Bowling Alley you can play billiards and Snooker. Table's and asseories has the highest avalible standard.
 
 Price per table is **USD 35**. max 4 people can play per table.
@@ -132,28 +146,21 @@ Email: fun@bowlingalley.not
 
 [maplink](https://maps.googleapis.com/maps/api/staticmap?center=Seligman,+Arizona+86337,+USA/@35.5295059,-113.2333092,889m/data=!3m2!1e3!4b1!4m12!1m6!3m5!1s0x0:0x2fdf6e3aedfaf45d!2sRadiator+Spring+Gas!8m2!3d35.5288858!4d-113.2313893!3m4!1s0x80cd050269ced2e9:0xb8f756f748e0b206!8m2!3d35.5295262!4d-113.2314753&size=400x200&scale=2&format=png&key=AIzaSyDtEf1XrnrAJYLbOolhUng71M01typu1Yo+)
 
-**Resturant content**
+##### Resturant content
 
-Selected Typfaces:
+#### Style Information
+
+##### Selected Typfaces:
 
 - Logo: **Playball**, cursive
 - Header: **Lato**, sans-serif
 - Text: **Raleway**, sans-serif
 
+##### Color Schema
+
 The sites color schema wireframe
+
 ![color schema examples](docs/wireframes/wf-color.png)
-
-### Existing Features
-
-- Provide information on the [bowling alley's location](https://www.google.com/maps/place/Radiator+Spring+Gas/@35.529041,-113.2315159,763m/data=!3m1!1e3!4m8!1m2!2m1!1sradiator+springs!3m4!1s0x0:0x2fdf6e3aedfaf45d!8m2!3d35.528886!4d-113.2313894), opening hours, contact details and any external resources.
-- Bowling alley activities
-  - Bowling section - allows users to see prices and navigate to booking form
-  - Billiards section - allows users to see prices and navigate to booking form
-  - Resturant section - allows users to see menu
-  - Children's birthday party Section
-- Download booking rules
-- Booking form
-- Newsletter signup
 
 ### Features Left to Implement
 
