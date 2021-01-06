@@ -88,7 +88,7 @@ Where needed the hero image also contains the page header.
 - [Index page](docs/wireframes/wf-index.png)
 - [Activities page](docs/wireframes/wf-activities.png)
 - [Find us page](docs/wireframes/wf-findus.png)
-- [Resturants page](docs/wireframes/wf-resturants.png)
+- [Resturants page](docs/wireframes/wf-resturant.png)
 - [Bookning page](docs/wireframes/wf-booking.png)
 
 **Activities content**
@@ -145,18 +145,15 @@ The sites color schema wireframe
 
 ### Existing Features
 
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-* Provide information on the [bowling alley's location](https://www.google.com/maps/place/Radiator+Spring+Gas/@35.529041,-113.2315159,763m/data=!3m1!1e3!4m8!1m2!2m1!1sradiator+springs!3m4!1s0x0:0x2fdf6e3aedfaf45d!8m2!3d35.528886!4d-113.2313894), opening hours, contact details and any external resources.
-* Bowling alley activities
+- Provide information on the [bowling alley's location](https://www.google.com/maps/place/Radiator+Spring+Gas/@35.529041,-113.2315159,763m/data=!3m1!1e3!4m8!1m2!2m1!1sradiator+springs!3m4!1s0x0:0x2fdf6e3aedfaf45d!8m2!3d35.528886!4d-113.2313894), opening hours, contact details and any external resources.
+- Bowling alley activities
   - Bowling section - allows users to see prices and navigate to booking form
   - Billiards section - allows users to see prices and navigate to booking form
   - Resturant section - allows users to see menu
   - Children's birthday party Section
-* Download booking rules
-* Booking form
-* Newsletter signup
+- Download booking rules
+- Booking form
+- Newsletter signup
 
 ### Features Left to Implement
 
