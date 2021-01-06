@@ -107,35 +107,35 @@ Where needed the hero image also contains the page header.
 ##### Bowling content
 
 Here at Bowling Alley you and your friends can enjoy bowling on the greatest lanes with the finest equipment.
-All our lanes are olied daily to max out your bowling experience. Our bowling balls spans from the lightest 6lb to the heaviest 14lb with gripsizes all the way from XXS to XXL and we have all sizes shoes you would ever need. For the youngest the shoes are velcro fastening ones.
+All our lanes are oiled daily to max out your bowling experience. Our bowling balls span from the lightest 6lb to the heaviest 14lb with grip sizes all the way from XXS to XXL and we have all sizes of shoes you would ever need. For the youngest the shoes are velcro fastening ones.
 
-Price per lane and hour is **USD 35**. max 6 people per lane and shoes is included in price.
+Price per lane and hour is **USD 35**. max 6 people per lane and shoes are included in the price.
 
 It is possible to order drinks and snacks from the bar at any time.
-Water is always avalible without charge.
+Water is always available without charge.
 
 **Book your bowling today!**
 
 ##### Bowling birthday party content
 
-Book the awsome birthday party here at Bowling Alley. We will make the party fantastic, fun, easy and unforgettable!
+Book the awesome birthday party here at Bowling Alley. We will make the party fantastic, fun, easy and unforgettable!
 The kids get unlimited bowling, unlimited drinks and unlimited snacks during the birthday event.
-There is always a dedicated Party Host avalible.
+There is always a dedicated Party Host available.
 
 Price per birthday party is **USD 25** per person.
 
-**Book birthday party today!**
+**Book a birthday party today!**
 
 ##### Billiards content
 
-Enjoy classic billiards! On Bowling Alley you can play billiards and Snooker. Table's and asseories has the highest avalible standard.
+Enjoy classic billiards! On Bowling Alley you can play billiards and Snooker. Table's and accessories have the highest available standard.
 
 Price per table is **USD 35**. max 4 people can play per table.
 
 It is possible to order drinks and snacks from the bar at any time.
-Water is always avalible without charge.
+Water is always available without charge.
 
-**Find us content**
+##### Find us content
 
 Bowling Alley
 115 AZ-66, Seligman,
@@ -150,14 +150,14 @@ Email: fun@bowlingalley.not
 ##### Resturant content
 
 **Dine**
-Never be hungry! Our resturant offers menus that will leave you speachless.
-Try our burgers or chickenwings!
-Our resturant are Open!
+Never be hungry! Our restaurant offers menus that will leave you speechless.
+Try our burgers or chicken wings!
+Our restaurant is Open!
 **Download menu**
 
 **Wine**
 You can always find a good spot for a glass of wine in our bar area.
-The selection of good wines is frequently updated but we always keep your favourites avalible.
+The selection of good wines is frequently updated but we always keep your favourites available.
 
 #### Style Information
 
