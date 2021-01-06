@@ -87,11 +87,12 @@ Where needed the hero image also contains the page header.
 ### Pages - wireframes
 
 - [Index page](docs/wireframes/wf-index.png)
-- [Bowling page](docs/wireframes/wf-bowling.png)
-- [Billiards page](docs/wireframes/wf-billiards.png)
+- [Activity page](docs/wireframes/wf-activities.png)
 - [Find us page](docs/wireframes/wf-findus.png)
 - [Resturants page](docs/wireframes/wf-resturants.png)
 - [Bookning page](docs/wireframes/wf-booking.png)
+
+**Activities content**
 
 **Bowling content**
 Here at Bowling Alley you and your friends can enjoy bowling on the greatest lanes with the finest equipment.
