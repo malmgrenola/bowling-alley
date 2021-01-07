@@ -93,8 +93,26 @@ section ul {
 }
 
 .hero-background {
-  height: 50vh;
+  height: 40vh;
   position: relative;
+  padding: 0;
+}
+.hero-background h2 {
+  position: absolute;
+  width: 100%;
+  bottom: 5%;
+  font-family: "Raleway", sans-serif;
+  font-size: 4em;
+  text-align: center;
+  text-transform: uppercase;
+}
+@media only screen and (max-width: 767px) {
+  .hero-background {
+    height: 30vh;
+  }
+  .hero-background h2 {
+    font-size: 3em;
+  }
 }
 
 /*--------------------------------------------- Footer */
@@ -209,26 +227,21 @@ footer ul {
   margin: 0 0 20px 0;
 }
 
-/*--------------------------------------------- Bowling */
-.hero-background__bowling {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+/*--------------------------------------------- Activities */
+.hero-background__activities {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
     url("../images/bowling-596766_1920.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+
+  overflow: hidden;
+  position: relative;
 }
 
-/*--------------------------------------------- Billiards */
-.hero-background__billiards {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../images/pexels-tomaz-barcellos-2017868.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 /*--------------------------------------------- Find us */
 .hero-background__findus {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
     url("../images/pexels-elina-sazonova-2705756.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -236,7 +249,7 @@ footer ul {
 }
 /*--------------------------------------------- Resturant */
 .hero-background__resturant {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
     url("../images/pexels-snapwire-675951.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -244,7 +257,7 @@ footer ul {
 }
 /*--------------------------------------------- Booking */
 .hero-background__booking {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
     url("../images/ray-reyes-ND_kgsnEIeY-unsplash.jpg");
   background-position: center;
   background-repeat: no-repeat;
