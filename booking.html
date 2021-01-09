@@ -45,7 +45,9 @@
                 <a class="nav-link" href="activities.html">Bowling</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="activities.html#billiards">Billiards</a>
+                <a class="nav-link" href="activities.html#billiards"
+                  >Billiards</a
+                >
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="findus.html">Find us</a>
@@ -136,9 +138,23 @@
         <div class="row">
           <div class="col bg-dark text-center p-2 p-sm-3 p-md-5">
             <h2>Booking</h2>
-            <p>
-              Booking Page
-            </p>
+            <form class="" action="#" method="post">
+              <label for="name">Name</label>
+              <input type="text" name="name" value="" />
+              <label for="email">Email</label>
+              <input type="email" name="email" value="" />
+              <label for="datetime">Date</label>
+              <input type="datetime" name="datetime" value="" />
+              <label for="activity">Activity</label>
+              <select name="activity">
+                <option value="bowling">Bowling</option>
+                <option value="billiard">Billiards</option>
+                <option value="party">Birthday party</option>
+              </select>
+              <label for="people">People</label>
+              <input type="number" name="people" value="" min="1" max="20" />
+              <input type="submit" value="Submit" />
+            </form>
           </div>
         </div>
       </div>
@@ -177,9 +193,10 @@
               <i class="fas fa-map-marker-alt" aria-hidden="true"></i> Find us
             </h2>
             <ul class="list-inline">
-              <li>Phone</li>
-              <li>Address</li>
-              <li>Email</li>
+              <li>Bowling Alley</li>
+              <li>115 AZ-66, Seligman, AZ 86337, USA</li>
+              <li>Phone: 555 123 456</li>
+              <li>Email: fun@bowlingalley.not</li>
             </ul>
           </div>
           <div

@@ -135,6 +135,8 @@ Price per table is **USD 35**. max 4 people can play per table.
 It is possible to order drinks and snacks from the bar at any time.
 Water is always available without charge.
 
+**Book a table now!**
+
 ##### Find us content
 
 Bowling Alley
