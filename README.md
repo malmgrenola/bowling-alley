@@ -336,6 +336,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 - https://www.pexels.com/sv-se/foto/natt-vanner-middag-bord-5018987/
 - https://www.pexels.com/sv-se/foto/brod-bullar-burger-kott-1633578/
 - https://www.pexels.com/sv-se/foto/brod-mat-tallrik-maltid-3616956/
+- https://www.pexels.com/sv-se/foto/barn-fest-firande-flickor-2399097/
+- https://www.pexels.com/sv-se/foto/bar-biljard-hasardspel-inomhus-261043/
 
 ### Acknowledgements
 
