@@ -65,7 +65,7 @@ Navigation bar is responsive and will fold down to a burger menu when it wont fi
   - Booking
 
 Each page includes a footer element containing all the neccesary information needed at a glance for the user. This would include links to social media platforms, address information & opening hours.
-Additional elements such as booking rules download, gdpr information, vacancy Section can also be found in the footer.
+Additional elements such as booking rules download, gdpr information, vacancy Section could also be found in the footer at a later stage.
 The footer element is responsive and should flow with the device screen size.
 [Footer wireframe example](docs/wireframes/wf-footer.png)
 
@@ -177,6 +177,7 @@ The sites color schema wireframe
 
 ### Features Left to Implement
 
+- Add footer elements such as booking rules download, gdpr information, vacancy Section.
 - Showcase photos of people having fun bowling and inspire people to book their own time.
 - Provide details about upcoming scheduled events.
 - Lane online data presented on site.
@@ -186,7 +187,7 @@ The sites color schema wireframe
 - Better map intergration.
 - Tripadvisor reviews and links
 - Bowling tips
-- billiard tips
+- Billiard tips
 - Enhance birthday bowling with kids & teens section
 
 ## Technologies Used
