@@ -263,3 +263,14 @@ footer ul {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.booking-form__center {
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .booking-form__center {
+    margin: 0 auto;
+    max-width: 40%;
+  }
+}
