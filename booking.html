@@ -136,25 +136,87 @@
           </div>
         </div>
         <div class="row">
-          <div class="col bg-dark text-center p-2 p-sm-3 p-md-5">
-            <h2>Booking</h2>
-            <form class="" action="#" method="post">
-              <label for="name">Name</label>
-              <input type="text" name="name" value="" />
-              <label for="email">Email</label>
-              <input type="email" name="email" value="" />
-              <label for="datetime">Date</label>
-              <input type="datetime" name="datetime" value="" />
-              <label for="activity">Activity</label>
-              <select name="activity">
-                <option value="bowling">Bowling</option>
-                <option value="billiard">Billiards</option>
-                <option value="party">Birthday party</option>
-              </select>
-              <label for="people">People</label>
-              <input type="number" name="people" value="" min="1" max="20" />
-              <input type="submit" value="Submit" />
-            </form>
+          <div class="col bg-color-2 p-2 p-sm-3 p-md-5">
+            <div class="container booking-form__center">
+              <form class="row" action="#" method="post">
+                <div class="col-12 mb-3">
+                  <label class="form-label" for="name">Name</label>
+                  <input
+                    class="form-control"
+                    type="text"
+                    name="name"
+                    value=""
+                    required
+                  />
+                </div>
+                <div class="col-12 mb-3">
+                  <label class="form-label" for="email">Email</label>
+                  <input
+                    class="form-control"
+                    type="email"
+                    name="email"
+                    value=""
+                    required
+                  />
+                </div>
+                <div class="col-12 col-md-6 mb-3">
+                  <label class="form-label" for="date">Date</label>
+                  <input
+                    class="form-control"
+                    type="date"
+                    name="date"
+                    value=""
+                    required
+                  />
+                </div>
+                <div class="col-12 col-md-6 mb-3">
+                  <label class="form-label" for="time">Time</label>
+                  <input
+                    class="form-control"
+                    type="time"
+                    name="time"
+                    value=""
+                    required
+                  />
+                </div>
+                <div class="col-12 col-md-6 mb-3">
+                  <label class="form-label" for="activity">Activity</label>
+                  <select
+                    class="form-select"
+                    name="activity"
+                    aria-label="Select activity"
+                    required
+                  >
+                    <option value="bowling">Bowling</option>
+                    <option value="billiard">Billiards</option>
+                    <option value="party">Birthday party</option>
+                  </select>
+                </div>
+                <div class="col-12 col-md-6 mb-3">
+                  <label class="form-label" for="people">People</label>
+                  <input
+                    class="form-control"
+                    type="number"
+                    name="people"
+                    value=""
+                    min="1"
+                    max="20"
+                    required
+                  />
+                </div>
+                <div class="col text-center">
+                  <button
+                    id="booking-submit"
+                    type="button"
+                    class="btn btn-outline-light"
+                    data-bs-toggle="modal"
+                    data-bs-target="#bookingModal"
+                  >
+                    Submit
+                  </button>
+                </div>
+              </form>
+            </div>
           </div>
         </div>
       </div>
@@ -301,6 +363,45 @@
             <small
               >(nothing has been signed up, but it would have worked
               fine!)</small
+            >
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-bs-dismiss="modal"
+            >
+              Got it!
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      class="modal fade"
+      id="bookingModal"
+      tabindex="-1"
+      aria-labelledby="exampleModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">
+              You're booked!
+            </h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            Thanks for booking an activity<br />
+            <small
+              >(nothing has been booked, but it would have worked fine!)</small
             >
           </div>
           <div class="modal-footer">
