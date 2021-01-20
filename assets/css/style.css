@@ -136,11 +136,12 @@ footer ul {
   margin-top: 30px;
 }
 
-footer .nav-link {
+footer a {
   color: white;
+  text-decoration: underline;
 }
-footer .nav-link:hover {
-  color: rgba(255, 255, 255, 0.8);
+footer a:hover {
+  color: rgba(255, 255, 255, 0.6);
 }
 footer li a i {
   height: 40px;

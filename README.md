@@ -252,15 +252,19 @@ This section mentions how the project looks and works on different browsers and 
 
 ### Known issues
 
-This section also mentions any interesting bugs or problems you discovered during the testing, also not addressed items.
+This section mentions interesting bugs or problems discovered during the testing, also not addressed items.
 
 #### 1 - Social Links
 
 Social icons & links on site has the url's set to generic social media sites and not to any propper social account.
 
-#### 2 - Newsletter signup Form
+#### 2 - Newsletter & Booking form Form
 
-Newsletter signup form ends up in a modal popup to confirm the button have been pressed.
+Newsletter signup & booking form ends up in on a fake landing page & nothing is sent to server side at all.
+
+#### 4 - Address information
+
+All address, email & phone information on website is a fake.
 
 <!--
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
