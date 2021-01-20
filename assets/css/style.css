@@ -246,6 +246,13 @@ footer ul {
   height: 100%;
 }
 
+.activity a {
+  border: 3px solid white;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
 /*--------------------------------------------- Find us */
 .hero-background__findus {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
@@ -280,4 +287,13 @@ footer ul {
     margin: 0 auto;
     max-width: 40%;
   }
+}
+
+/*--------------------------------------------- Landing */
+.hero-background__landing {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
+    url("../images/pexels-gratisography-519.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
