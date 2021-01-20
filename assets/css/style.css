@@ -246,13 +246,6 @@ footer ul {
   height: 100%;
 }
 
-.activity a {
-  border: 3px solid white;
-  object-fit: cover;
-  width: 100%;
-  height: 100%;
-}
-
 /*--------------------------------------------- Find us */
 .hero-background__findus {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
