@@ -39,6 +39,7 @@ Another category is a typical midage person, with children, using the website on
 - As a user I can find to all avalible social media platforms
 - as a user I would like to find all contact information so I can locate and contact the company.
 - as a user I can find the resturant meny.
+- as a mobile user I can quickly find links to social media accounts so I can stay up to date on any platform.
 
 Site wireframes:
 
@@ -53,6 +54,7 @@ Site wireframes:
 The wesite contains a clear navigation on every page.
 The site is based on a navigational hierarchical tree structur.
 Navigation bar is responsive and will fold down to a burger menu when it wont fit the size.
+On mobile (samll screen) devices hamburger menu should contain quick access to social media links.
 
 [Navigation bar wireframe example](docs/wireframes/wf-navigation.png)
 
