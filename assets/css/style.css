@@ -49,7 +49,13 @@
 body {
   background-color: #0e1012;
 }
-
+a {
+  color: white;
+  text-decoration: underline;
+}
+a:hover {
+  color: rgba(255, 255, 255, 0.6);
+}
 section ul {
   margin-bottom: 0;
 }
@@ -169,6 +175,17 @@ footer ul {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.index__table td {
+  padding: 0 5px;
+  width: 50%;
+}
+.index__table td:first-child {
+  text-align: right;
+}
+.index__table td:last-child {
+  text-align: left;
 }
 
 .index-products .list-inline-item:not(:last-child) {
