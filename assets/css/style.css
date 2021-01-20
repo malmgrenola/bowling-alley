@@ -63,6 +63,10 @@ section ul {
 :target {
   scroll-margin-top: 80px;
 }
+header {
+  margin: 0;
+  padding: 0;
+}
 
 /*--------------------------------------------- Header */
 
@@ -213,6 +217,7 @@ footer ul {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  margin: 0;
 }
 .index-products__bowling {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
@@ -286,6 +291,11 @@ footer ul {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+#findus .map {
+  width: 100%;
+}
+
 /*--------------------------------------------- Resturant */
 #resturant .hero-background {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
