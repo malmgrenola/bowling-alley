@@ -271,6 +271,16 @@ footer ul {
   height: 100%;
 }
 
+.activity__content {
+}
+
+@media (max-width: 767px) {
+  .activity__content {
+    margin: 0 auto;
+    text-align: center;
+  }
+}
+
 /*--------------------------------------------- Find us */
 .hero-background__findus {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
