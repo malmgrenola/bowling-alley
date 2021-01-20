@@ -298,6 +298,12 @@ Deployment is done by opening a Pull Request where 'main' is compared to 'produc
 
 This site is currently deployed with gitHub Pages. How to deploy is found [here](https://pages.github.com/).
 
+### Tools
+
+Any text IDE can be used. [Atom](https://atom.io/) (with [prettier](https://atom.io/packages/prettier-atom)) is recomended.
+
+[Adobe Photoshop](https://www.adobe.com/se/products/photoshop.html) is used to enhance and optimize images.
+
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
@@ -323,7 +329,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Media
 
-- The photos used in this site were obtained from ...
+The photos used in this site were obtained from:
+
 - https://www.pexels.com/sv-se/foto/aktivitet-blixtnedslag-boll-bowling-4192/
 - https://www.pexels.com/sv-se/foto/blixtnedslag-bowling-bowling-stift-inomhus-344029/
 - https://www.pexels.com/sv-se/foto/ljus-mode-man-ansiktslosa-5743695/
