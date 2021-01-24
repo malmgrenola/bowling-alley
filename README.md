@@ -352,6 +352,8 @@ The photos used in this site were obtained from:
 - https://www.pexels.com/sv-se/foto/barn-fest-firande-flickor-2399097/
 - https://www.pexels.com/sv-se/foto/bar-biljard-hasardspel-inomhus-261043/
 - https://www.pexels.com/sv-se/foto/annons-ljus-neon-reklam-519/
+- https://unsplash.com/photos/MdN5h3QCiTw
+- https://unsplash.com/photos/Wv6xmYikFFQ
 
 ### Acknowledgements
 
