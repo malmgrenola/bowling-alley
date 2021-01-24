@@ -268,6 +268,10 @@ Newsletter signup & booking form ends up in on a fake landing page & nothing is 
 
 All address, email & phone information on website is a fake.
 
+#### 5 - Download menu
+
+The menu is currently without propper content.
+
 <!--
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
@@ -303,6 +307,7 @@ This site is currently deployed with gitHub Pages. How to deploy is found [here]
 Any text IDE can be used. [Atom](https://atom.io/) (with [prettier](https://atom.io/packages/prettier-atom)) is recomended.
 
 [Adobe Photoshop](https://www.adobe.com/se/products/photoshop.html) is used to enhance and optimize images.
+[Adobe Illustrator](https://www.adobe.com/se/products/illustrator.html) is used to design and export menu to pdf.
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
@@ -354,6 +359,10 @@ The photos used in this site were obtained from:
 - https://www.pexels.com/sv-se/foto/annons-ljus-neon-reklam-519/
 - https://unsplash.com/photos/MdN5h3QCiTw
 - https://unsplash.com/photos/Wv6xmYikFFQ
+
+The Download menu feature were obtained from:
+
+- https://www.freepik.com/free-vector/restaurant-menu-template_787035.htm
 
 ### Acknowledgements
 
