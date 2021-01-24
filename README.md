@@ -242,9 +242,14 @@ No automated Tests is setup for this project.
 
 1. Validator tests
 
-   1. [validate index.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
-   2. [validate style.css](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Fassets%2Fcss%2Fstyle.css)
-   3.
+   1. [validate style.css](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Fassets%2Fcss%2Fstyle.css)
+   2. [validate index.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
+   3. [validate activities.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Factivities.html)
+   4. [validate booking.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Fbooking.html)
+   5. [validate findus.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Ffindus.html)
+   6. [validate landing-booking.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Flanding-booking.html)
+   7. [validate landing-newsletter.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Flanding-newsletter.html)
+   8. [validate resturant.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Fresturant.html)
 
 2. Layout:
    1. Navigate to the Main Page And confirm layout.
