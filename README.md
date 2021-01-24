@@ -19,17 +19,13 @@ Website for a bowling alley where the site's users are customers that would like
 
 - [Known issues](#known-issues)
 
-[Deployment](#deployment)
+[Development & Deployment](#development--deployment)
 
 [Credits](#credits)
 
-- [Content](#content)
-- [Media](#media)
-- [Acknowledgements](#acknowledgements)
-
 ## UX
 
-The site owners goal is to get more lane bookings and dinner reservations & present the alley and its services to the potential customers.
+The site owners goal is to get more lane bookings and dinner reservations & present the alley and its services to the potential customers. The current avalible activities is bowling, billiards, birtday party bowling & eat & drink in the restaurant.
 
 The website's typical user is a young to midage customer with their cellphone that would like to do activities with friends later the same day or near future.
 Another category is a typical midage person, with children, using the website on the computer and would like to arrange a children birthday party or bowl with friends.
@@ -218,9 +214,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 All HTML and CSS is validated with [W3C Validator](https://validator.w3.org/)
 
 As specified in [User's guide for the W3C Markup Validator](https://dev.w3.org/validator/htdocs/docs/users.html) calls can be made to the validator.
-
-- [validate index.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
-- [validate style.css](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Fassets%2Fcss%2Fstyle.css)
+This site validator test are specified below in this section.
 
 Amazon Devie Farm is used for devie testing
 Selected devices is tageted:
@@ -241,7 +235,7 @@ Itterate all user stories in the UX Section and ensure that they all work as int
 
 No automated Tests is setup for this project.
 
-1. Validator tests
+1. Validator tests, confirm no errors on each file listed.
 
    1. [validate style.css](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Fassets%2Fcss%2Fstyle.css)
    2. [validate index.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
@@ -252,19 +246,23 @@ No automated Tests is setup for this project.
    7. [validate landing-newsletter.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Flanding-newsletter.html)
    8. [validate restaurant.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Frestaurant.html)
 
-2. Layout:
-   1. Navigate to the Main Page And confirm layout.
-   2. [Add all Layouts] layout.
-   3. Confirm Header & Footer on all pages.
-3. Forms:
-   1. Go to the main page and confirm modal popup when you sign up
-4. External links
-   1. Navigate to Main page and confirm that all six (6) Social icons ends up in a "\_Blank" window and links to correct url.
-5. Lighthouse Scoring
-   1. open devtools in google chrome and press "Generate report" for Desktop device & Mobile Devices.
+2) Layout & External links:
+   1. confirm that the user can see and book all avalible activities (including birthday party) on `activities.html`, `index.html` & `landing-newsletter.html` in the activities section.
+   2. confirm all social media icons correctly linked and opens a blank page on `footer` section on every page, `findus.html` & the hamburger menu on a mobile device.
+   3. confirm correct opening hours on `index.html` in the opening hours section & on `footer` section on every page.
+   4. confirm correct contact information and links (street, tel & email) opens a blank page on `footer` section on every page, `findus.html` & `index.html`.
+   5. confirm correct download of menu & that it opens a blank page on `restaurant.html`
+   6. confirm that there is no missing images on all pages (use devtools / network).
+3) Forms:
+   1. navigate to local `index.html` -> newsletter signup section.
+   2. confirm that faulty address feedbacks error to the user.
+   3. confirm that submit takes user to `landing-newsletter.html`
+   4. navigate to local `booking.html`.
+   5. confirm faulty input in all form elements.
+   6. confirm that submit takes user to `landing-booking.html`
+4) Lighthouse Scoring
+   1. open devtools / lighthouse in google chrome and press "Generate report" for Desktop device & Mobile Devices.
    2. Confirm results and correct if needed.
-
-This section mentions how the project looks and works on different browsers and screen sizes.
 
 ### Known issues
 
@@ -289,6 +287,12 @@ The menu is currently without propper content.
 #### 6 - switch between landscape and portait
 
 On some devices the switch between landscape and portait missaligns the scrollbar.
+
+#### 6 - CSS Warnings
+
+`-moz-transition`,`-webkit-transition` & `-o-transition` is still in `style.css` file even if it seems like they could most likley be removed.
+
+Based on comments, for example [here](https://stackoverflow.com/questions/52490004/what-are-all-of-these-w3c-css-validation-warnings-about) and the fact that `code institute` keeps them in their examples, decision is to not remove code at this point.
 
 <!--
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
