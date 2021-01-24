@@ -207,7 +207,7 @@ footer ul {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../images/pexels-elina-sazonova-2705756.jpg");
 }
-.index-products__resturants {
+.index-products__restaurants {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../images/pexels-snapwire-675951.jpg");
 }
@@ -268,15 +268,15 @@ footer ul {
   width: 100%;
 }
 
-/*--------------------------------------------- Resturant */
-#resturant .hero-background {
+/*--------------------------------------------- Restaurant */
+#restaurant .hero-background {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
     url("../images/pexels-snapwire-675951.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-#resturant img {
+#restaurant img {
   border: 3px solid white;
   object-fit: cover;
   width: 33%;

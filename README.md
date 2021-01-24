@@ -38,7 +38,7 @@ Another category is a typical midage person, with children, using the website on
 - As a user, I want to book a children birthday party, so that I be ensured that my child with friends get a great party.
 - As a user I can find to all avalible social media platforms
 - as a user I would like to find all contact information so I can locate and contact the company.
-- as a user I can find the resturant meny.
+- as a user I can find the restaurant meny.
 - as a mobile user I can quickly find links to social media accounts so I can stay up to date on any platform.
 
 Site wireframes:
@@ -46,7 +46,7 @@ Site wireframes:
 - [Index page](docs/wireframes/wf-index.png)
 - [Activities page](docs/wireframes/wf-activities.png)
 - [Find us page](docs/wireframes/wf-findus.png)
-- [Resturants page](docs/wireframes/wf-resturant.png)
+- [Restaurants page](docs/wireframes/wf-restaurant.png)
 - [Bookning page](docs/wireframes/wf-booking.png)
 
 ## Features
@@ -64,7 +64,7 @@ Current page is highlighted in the navigation bar.
   - Bowling
   - Billiards/Snooker
   - Find us
-  - Resturant
+  - Restaurant
   - Booking
 
 Each page includes a footer element containing all the neccesary information needed at a glance for the user. This would include links to social media platforms, address information & opening hours.
@@ -99,7 +99,7 @@ Where needed the hero image also contains the page header.
   - Bowling section - allows users to see prices and navigate to booking form
   - Billiards section - allows users to see prices and navigate to booking form
   - Children's birthday party Section
-- Resturant section - allows users to see menu
+- Restaurant section - allows users to see menu
 - Booking form
 - Newsletter signup
 
@@ -150,7 +150,7 @@ Email: fun@bowlingalley.not
 
 [maplink](https://maps.googleapis.com/maps/api/staticmap?center=Seligman,+Arizona+86337,+USA/@35.5295059,-113.2333092,889m/data=!3m2!1e3!4b1!4m12!1m6!3m5!1s0x0:0x2fdf6e3aedfaf45d!2sRadiator+Spring+Gas!8m2!3d35.5288858!4d-113.2313893!3m4!1s0x80cd050269ced2e9:0xb8f756f748e0b206!8m2!3d35.5295262!4d-113.2314753&size=400x200&scale=2&format=png&key=AIzaSyDtEf1XrnrAJYLbOolhUng71M01typu1Yo+)
 
-##### Resturant content
+##### Restaurant content
 
 **Dine**
 Never be hungry! Our restaurant offers menus that will leave you speechless.
@@ -250,7 +250,7 @@ No automated Tests is setup for this project.
    5. [validate findus.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Ffindus.html)
    6. [validate landing-booking.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Flanding-booking.html)
    7. [validate landing-newsletter.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Flanding-newsletter.html)
-   8. [validate resturant.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Fresturant.html)
+   8. [validate restaurant.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Frestaurant.html)
 
 2. Layout:
    1. Navigate to the Main Page And confirm layout.
