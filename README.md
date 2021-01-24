@@ -55,6 +55,7 @@ The wesite contains a clear navigation on every page.
 The site is based on a navigational hierarchical tree structur.
 Navigation bar is responsive and will fold down to a burger menu when it wont fit the size.
 On mobile (samll screen) devices hamburger menu should contain quick access to social media links.
+Current page is highlighted in the navigation bar.
 
 [Navigation bar wireframe example](docs/wireframes/wf-navigation.png)
 
