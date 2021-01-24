@@ -80,7 +80,6 @@ The footer element is responsive and should flow with the device screen size.
     - Address (link to map)
     - phone
     - email
-    - Contact us
   - Social
     - Facebook
     - Instagram
@@ -94,13 +93,12 @@ Where needed the hero image also contains the page header.
 
 ### Existing Features
 
-- Provide information on the [bowling alley's location](https://www.google.com/maps/place/Radiator+Spring+Gas/@35.529041,-113.2315159,763m/data=!3m1!1e3!4m8!1m2!2m1!1sradiator+springs!3m4!1s0x0:0x2fdf6e3aedfaf45d!8m2!3d35.528886!4d-113.2313894), opening hours, contact details and any external resources.
+- Provide information on the [bowling alley's location](https://www.google.com/maps/place/Radiator+Spring+Gas/@35.529041,-113.2315159,763m/data=!3m1!1e3!4m8!1m2!2m1!1sradiator+springs!3m4!1s0x0:0x2fdf6e3aedfaf45d!8m2!3d35.528886!4d-113.2313894), opening hours & contact details.
 - Bowling alley activities
   - Bowling section - allows users to see prices and navigate to booking form
   - Billiards section - allows users to see prices and navigate to booking form
-  - Resturant section - allows users to see menu
   - Children's birthday party Section
-- Download booking rules
+- Resturant section - allows users to see menu
 - Booking form
 - Newsletter signup
 
@@ -162,6 +160,7 @@ Our restaurant is Open!
 **Wine**
 You can always find a good spot for a glass of wine in our bar area.
 The selection of good wines is frequently updated but we always keep your favourites available.
+**Download menu**
 
 #### Style Information
 
@@ -177,20 +176,29 @@ The sites color schema wireframe
 
 ![color schema examples](docs/wireframes/wf-color.png)
 
+```
+/* Bowling alley colors */
+.bowling-ally-1-hex {
+  color: #3f0061;
+}
+.bowling-ally-2-hex {
+  color: #003c61;
+}
+.bowling-ally-3-hex {
+  color: #18614a;
+}
+.bowling-ally-4-hex {
+  color: #613901;
+}
+.bowling-ally-5-hex {
+  color: #61291a;
+}
+```
+
 ### Features Left to Implement
 
 - Add footer elements such as booking rules download, gdpr information, vacancy Section.
-- Showcase photos of people having fun bowling and inspire people to book their own time.
-- Provide details about upcoming scheduled events.
-- Lane online data presented on site.
-- Live site chat with booking possibilities.
-- Provide company historical information and about section.
-- vacancy section.
-- Better map intergration.
-- Tripadvisor reviews and links
-- Bowling tips
-- Billiard tips
-- Enhance birthday bowling with kids & teens section
+- Propper backend for newsletter signup & booking form
 
 ## Technologies Used
 
@@ -268,6 +276,14 @@ Newsletter signup & booking form ends up in on a fake landing page & nothing is 
 
 All address, email & phone information on website is a fake.
 
+#### 5 - Download menu
+
+The menu is currently without propper content.
+
+#### 6 - switch between landscape and portait
+
+On some devices the switch between landscape and portait missaligns the scrollbar.
+
 <!--
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
@@ -290,42 +306,38 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Development & Deployment
 
-Development on this site happens primary on branch [main](https://github.com/malmgrenola/bowling-alley/tree/main)
+Development on this site happens primary on branch [main](https://github.com/malmgrenola/bowling-alley/tree/main).
+branch [main](https://github.com/malmgrenola/bowling-alley/tree/main) also acts as staging enviorment.
+
 If you would like to contribute please fork repo and open pull requests.
 Before opening pull requests, please confirm all items in [Testing](#Testing) section in this document.
 
-Deployment is done by opening a Pull Request where 'main' is compared to 'production'.
+Deployment is done by opening a Pull Request and merge to branch 'production'.
 
-This site is currently deployed with gitHub Pages. How to deploy is found [here](https://pages.github.com/).
+This site is currently deployed with gitHub Pages.
+The branch 'production' and the "/(root)" folder is used.
+Deployment url: https://malmgrenola.github.io/bowling-alley/
+
+How to deploy is found [here](https://pages.github.com/).
+
+local development can be previewed as local files in browser without any http-server.
 
 ### Tools
 
 Any text IDE can be used. [Atom](https://atom.io/) (with [prettier](https://atom.io/packages/prettier-atom)) is recomended.
 
 [Adobe Photoshop](https://www.adobe.com/se/products/photoshop.html) is used to enhance and optimize images.
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
+[Adobe Illustrator](https://www.adobe.com/se/products/illustrator.html) is used to design and export menu to pdf.
 
 ## Credits
 
 ### Content
 
 - Fonts for the website (Raleway, Lato, Playball) is provided from [Google Fonts](https://fonts.google.com/)
-
 - Color inspiration from [Adobe Color](https://color.adobe.com/), [ColorSpace](https://mycolor.space/) & [colormind](http://colormind.io/)
 - Wireframes built using [Balsamiq](https://balsamiq.com/)
-- The navbar consists modified examples from [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/components/navbar/)
+- The navbar consists of modified code examples from [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/components/navbar/)
 - Icons used are linked from [Fontawesome](https://fontawesome.com/)
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
--
 
 ### Media
 
@@ -352,6 +364,12 @@ The photos used in this site were obtained from:
 - https://www.pexels.com/sv-se/foto/barn-fest-firande-flickor-2399097/
 - https://www.pexels.com/sv-se/foto/bar-biljard-hasardspel-inomhus-261043/
 - https://www.pexels.com/sv-se/foto/annons-ljus-neon-reklam-519/
+- https://unsplash.com/photos/MdN5h3QCiTw
+- https://unsplash.com/photos/Wv6xmYikFFQ
+
+The Download menu feature were obtained from:
+
+- https://www.freepik.com/free-vector/restaurant-menu-template_787035.htm
 
 ### Acknowledgements
 
