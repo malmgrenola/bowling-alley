@@ -276,6 +276,14 @@ footer ul {
   background-repeat: no-repeat;
   background-size: cover;
 }
+#resturant img {
+  border: 3px solid white;
+  object-fit: cover;
+  width: 33%;
+  height: 100%;
+  float: right;
+  margin: 0.5em;
+}
 /*--------------------------------------------- Booking */
 #booking .hero-background {
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
