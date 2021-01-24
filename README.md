@@ -353,29 +353,19 @@ Any text IDE can be used. [Atom](https://atom.io/) (with [prettier](https://atom
 
 The photos used in this site were obtained from:
 
-- https://www.pexels.com/sv-se/foto/aktivitet-blixtnedslag-boll-bowling-4192/
-- https://www.pexels.com/sv-se/foto/blixtnedslag-bowling-bowling-stift-inomhus-344029/
-- https://www.pexels.com/sv-se/foto/ljus-mode-man-ansiktslosa-5743695/
-- https://unsplash.com/photos/yk2VUa5vtA0
-- https://unsplash.com/photos/IoBCIosXkH8
-- https://unsplash.com/photos/m4o5RuY1waY
-- https://unsplash.com/photos/rrHl2zGZ9E4
-- https://www.stockvault.net/photo/203821/bowling-alley
-- https://www.stockvault.net/photo/236858/bowling-alley
-- https://pixabay.com/photos/bowling-pins-ball-playing-alley-596766/
-- https://www.pexels.com/sv-se/foto/sallskapsspel-bollar-skarpedjup-biljard-2017868/
-- https://www.pexels.com/sv-se/foto/person-hander-kvinna-flicka-2705756/
-- https://www.pexels.com/sv-se/foto/bbq-biff-flask-gourmet-675951/
-- https://unsplash.com/photos/ND_kgsnEIeY
-- https://www.pexels.com/sv-se/foto/rostat-brod-man-manniskor-kvinna-3171815/
-- https://www.pexels.com/sv-se/foto/natt-vanner-middag-bord-5018987/
-- https://www.pexels.com/sv-se/foto/brod-bullar-burger-kott-1633578/
-- https://www.pexels.com/sv-se/foto/brod-mat-tallrik-maltid-3616956/
-- https://www.pexels.com/sv-se/foto/barn-fest-firande-flickor-2399097/
-- https://www.pexels.com/sv-se/foto/bar-biljard-hasardspel-inomhus-261043/
-- https://www.pexels.com/sv-se/foto/annons-ljus-neon-reklam-519/
-- https://unsplash.com/photos/MdN5h3QCiTw
-- https://unsplash.com/photos/Wv6xmYikFFQ
+- [pexels-skitterphoto-4192.jpg](https://www.pexels.com/sv-se/foto/aktivitet-blixtnedslag-boll-bowling-4192/)
+- [pexels-matthias-zomer-344029.jpg](https://www.pexels.com/sv-se/foto/blixtnedslag-bowling-bowling-stift-inomhus-344029/)
+- [derek-martin-m4o5RuY1waY-unsplash.jpg](https://unsplash.com/photos/m4o5RuY1waY)
+- [pexels-tomaz-barcellos-2017868.jpg](https://www.pexels.com/sv-se/foto/sallskapsspel-bollar-skarpedjup-biljard-2017868/)
+- [pexels-elina-sazonova-2705756.jpg](https://www.pexels.com/sv-se/foto/person-hander-kvinna-flicka-2705756/)
+- [pexels-snapwire-675951.jpg](https://www.pexels.com/sv-se/foto/bbq-biff-flask-gourmet-675951/)
+- [ray-reyes-ND_kgsnEIeY-unsplash.jpg](https://unsplash.com/photos/ND_kgsnEIeY)
+- [pexels-cottonbro-5018987.jpg](https://www.pexels.com/sv-se/foto/natt-vanner-middag-bord-5018987/)
+- [pexels-rajesh-tp-1633578.jpg](https://www.pexels.com/sv-se/foto/brod-bullar-burger-kott-1633578/)
+- [pexels-samaraagenstvo-feeria-2399097.jpg](https://www.pexels.com/sv-se/foto/barn-fest-firande-flickor-2399097/)
+- [pexels-gratisography-519.jpg](https://www.pexels.com/sv-se/foto/annons-ljus-neon-reklam-519/)
+- [brittani-burns-MdN5h3QCiTw-unsplash.jpg](https://unsplash.com/photos/MdN5h3QCiTw)
+- [luana-azevedo-Wv6xmYikFFQ-unsplash.jpg](https://unsplash.com/photos/Wv6xmYikFFQ)
 
 The Download menu feature were obtained from:
 
