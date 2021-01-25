@@ -348,7 +348,6 @@ local development can be previewed as local files in browser without any http-se
 Any text IDE can be used. [Atom](https://atom.io/) (with [prettier](https://atom.io/packages/prettier-atom)) is recomended.
 
 - [Adobe Photoshop](https://www.adobe.com/se/products/photoshop.html) is used to enhance and optimize images.
-- [Adobe Illustrator](https://www.adobe.com/se/products/illustrator.html) is used to design and export menu to pdf.
 - [ami.responsivedesign.is](http://ami.responsivedesign.is/) is used to generate screenshot image.
 
 ## Credits
@@ -382,7 +381,7 @@ The photos used in this site were obtained from:
 
 The Download menu feature were obtained from:
 
-- https://www.freepik.com/free-vector/restaurant-menu-template_787035.htm
+- https://imenupro.com/gallery
 
 ### Acknowledgements
 
