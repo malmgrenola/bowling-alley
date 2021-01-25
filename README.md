@@ -3,8 +3,12 @@
 Website for a bowling alley where the site's users are customers that would like to bowl and eat.
 
 Live site loation:
+
 [Bowling Alley Website](https://malmgrenola.github.io/bowling-alley)
-![last deployment](https://img.shields.io/github/last-commit/malmgrenola/bowling-alley/production?label=last%20live%20site%20deployment)![badge](https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
+
+![last deployment](https://img.shields.io/github/last-commit/malmgrenola/bowling-alley/production?label=last%20live%20site%20deployment)
+
+![badge](https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
 
 ![screenshoot image](docs/screenshot.png)
 
