@@ -201,9 +201,10 @@ The sites color schema wireframe
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+In this section all of the languages, frameworks, libraries, and any other tools that is used to construct this project is mentioned.
+For each, name, a link to its official site and a short sentence of why it was used is provided.
 
-- [HTML5](https://www.w3.org/TR/html52/)
+- [HTML5](https://www.w3.org/TR/html52/) ![badge](https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [Bootstrap](https://getbootstrap.com/)
   - Grid feature is used to help layout the website.
@@ -318,6 +319,8 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Development & Deployment
 
+![last deployment](https://img.shields.io/github/last-commit/malmgrenola/bowling-alley/production?label=last%20production%20deployment)
+
 Development on this site happens primary on branch [main](https://github.com/malmgrenola/bowling-alley/tree/main).
 branch [main](https://github.com/malmgrenola/bowling-alley/tree/main) also acts as staging enviorment.
 
@@ -351,6 +354,7 @@ Any text IDE can be used. [Atom](https://atom.io/) (with [prettier](https://atom
 - Wireframes built using [Balsamiq](https://balsamiq.com/)
 - The navbar consists of modified code examples from [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/components/navbar/)
 - Icons used are linked from [Fontawesome](https://fontawesome.com/)
+- [shields.io](https://shields.io/) is used to generate badges used.
 
 ### Media
 
