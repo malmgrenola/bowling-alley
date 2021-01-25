@@ -2,6 +2,8 @@
 
 Website for a bowling alley where the site's users are customers that would like to bowl and eat.
 
+![screenshoot image](docs/screenshot.png)
+
 #### Table of Contents
 
 [UX](#ux)
@@ -336,8 +338,9 @@ local development can be previewed as local files in browser without any http-se
 
 Any text IDE can be used. [Atom](https://atom.io/) (with [prettier](https://atom.io/packages/prettier-atom)) is recomended.
 
-[Adobe Photoshop](https://www.adobe.com/se/products/photoshop.html) is used to enhance and optimize images.
-[Adobe Illustrator](https://www.adobe.com/se/products/illustrator.html) is used to design and export menu to pdf.
+- [Adobe Photoshop](https://www.adobe.com/se/products/photoshop.html) is used to enhance and optimize images.
+- [Adobe Illustrator](https://www.adobe.com/se/products/illustrator.html) is used to design and export menu to pdf.
+- [ami.responsivedesign.is](http://ami.responsivedesign.is/) is used to generate screenshot image.
 
 ## Credits
 
