@@ -2,7 +2,7 @@
 
 Website for a bowling alley where the site's users are customers that would like to bowl and eat.
 
-Live site loation:
+Live site location:
 
 [Bowling Alley Website](https://malmgrenola.github.io/bowling-alley)
 
@@ -10,6 +10,7 @@ Live site loation:
 
 ![badge](https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
 
+Live site screenshot:
 ![screenshoot image](docs/screenshot.png)
 
 #### Table of Contents
@@ -299,31 +300,19 @@ The menu is currently without propper content.
 
 On some devices the switch between landscape and portait missaligns the scrollbar.
 
+Landscape menu that "grows" under the screen cant be scrolled with bootstrap on most mobile devices.
+
+Samsung Galaxy A40
+
+Bug research:
+
+- https://stackoverflow.com/questions/19227496/scrollable-menu-with-bootstrap-menu-expanding-its-container-when-it-should-not
+
 #### 6 - CSS Warnings
 
 `-moz-transition`,`-webkit-transition` & `-o-transition` is still in `style.css` file even if it seems like they could most likley be removed.
 
 Based on comments, for example [here](https://stackoverflow.com/questions/52490004/what-are-all-of-these-w3c-css-validation-warnings-about) and the fact that `code institute` keeps them in their examples, decision is to not remove code at this point.
-
-<!--
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-   1. Go to the "Contact Us" page
-   2. Try to submit the empty form and verify that an error message about the required fields appears
-   3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-   4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
--->
 
 ## Development & Deployment
 
