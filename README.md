@@ -2,6 +2,10 @@
 
 Website for a bowling alley where the site's users are customers that would like to bowl and eat.
 
+Live site loation:
+[Bowling Alley Website](https://malmgrenola.github.io/bowling-alley)
+![last deployment](https://img.shields.io/github/last-commit/malmgrenola/bowling-alley/production?label=last%20live%20site%20deployment)![badge](https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
+
 ![screenshoot image](docs/screenshot.png)
 
 #### Table of Contents
@@ -58,7 +62,7 @@ Current page is highlighted in the navigation bar.
 [Navigation bar wireframe example](docs/wireframes/wf-navigation.png)
 
 - Navigation items:
-  - Home (logo)
+  - Home (the logo is also a link to home)
   - Bowling
   - Billiards/Snooker
   - Find us
@@ -204,7 +208,7 @@ The sites color schema wireframe
 In this section all of the languages, frameworks, libraries, and any other tools that is used to construct this project is mentioned.
 For each, name, a link to its official site and a short sentence of why it was used is provided.
 
-- [HTML5](https://www.w3.org/TR/html52/) ![badge](https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
+- [HTML5](https://www.w3.org/TR/html52/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [Bootstrap](https://getbootstrap.com/)
   - Grid feature is used to help layout the website.
@@ -318,8 +322,6 @@ If this section grows too long, you may want to split it off into a separate fil
 -->
 
 ## Development & Deployment
-
-![last deployment](https://img.shields.io/github/last-commit/malmgrenola/bowling-alley/production?label=last%20production%20deployment)
 
 Development on this site happens primary on branch [main](https://github.com/malmgrenola/bowling-alley/tree/main).
 branch [main](https://github.com/malmgrenola/bowling-alley/tree/main) also acts as staging enviorment.
