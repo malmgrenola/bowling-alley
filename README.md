@@ -11,7 +11,7 @@ Live site location:
 ![badge](https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
 
 Live site screenshot:
-![screenshot image](docs/screenshot.png)
+![screenshot image](docs/screenshots/screenshot.png)
 
 #### Table of Contents
 
@@ -41,12 +41,14 @@ The site owners goal is to get more lane bookings and dinner reservations & pres
 The website's typical user is a young to mid aged customer with their cell phone that would like to do activities with friends later the same day or near future.
 Another category is a typical mid age person, with children, using the website on the computer and would like to arrange a children birthday party or bowl with friends.
 
-- As a customer I would like to see available activities and book them, for a great evening out.
-- As a user, I want to book a children birthday party, so that I be ensured that my child with friends get a great party.
-- As a user I can find to all available social media platforms
-- as a user I would like to find all contact information so I can locate and contact the company.
-- as a user I can find the restaurant menu.
-- as a mobile user I can quickly find links to social media accounts so I can stay up to date on any platform.
+- As a customer I would like to see [available activities](docs/screenshots/activities.png) and [book them](docs/screenshots/book.png), for a great evening out.
+- As a user, I want to book a [children birthday party](docs/screenshots/birthday.png), so that I be ensured that my child with friends get a great party.
+- As a user I can find to [all available social](docs/screenshots/footer.png) media platforms
+- as a user I would like to [find all contact information](docs/screenshots/findus.png) so I can locate and contact the company.
+- as a user I can find the [restaurant menu](docs/screenshots/restaurant.png).
+- as a mobile user I can quickly find [links to social](collapsednavbar.png) media accounts so I can stay up to date on any platform.
+
+Site screenshots is found [here](docs/screenshots/).
 
 Site wireframes:
 
