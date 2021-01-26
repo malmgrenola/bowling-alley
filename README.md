@@ -306,7 +306,9 @@ It's confirmed [here](https://github.com/twbs/bootstrap/commit/97e9214eddb27dacb
 
 The scroll issue is fixed by using [this css fix](https://github.com/twbs/bootstrap/issues/23374#issuecomment-329742496) in [style.css](assets/css/style.css)
 
-#### 6 - CSS Warnings
+On windows using Explorer or Firefox (latest version) with a screen height smaller than the collapsed menu height will cause an extra scrollbar on the right hand side.
+
+#### 7 - CSS Warnings
 
 `-moz-transition`,`-webkit-transition` & `-o-transition` is still in `style.css` file even if it seems like they could most likley be removed.
 
