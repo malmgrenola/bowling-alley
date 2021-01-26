@@ -302,11 +302,9 @@ On some devices the switch between landscape and portait missaligns the scrollba
 
 Landscape menu that "grows" under the screen cant be scrolled with bootstrap on most mobile devices.
 
-Samsung Galaxy A40
+It's confirmed [here](https://github.com/twbs/bootstrap/commit/97e9214eddb27dacb3ac512dde22e9e231c8c739) that [pre-scrollable](https://getbootstrap.com/docs/4.6/content/code/#code-blocks) class in Bootstrap v4.x has been removed in Bootstrap version 5.
 
-Bug research:
-
-- https://stackoverflow.com/questions/19227496/scrollable-menu-with-bootstrap-menu-expanding-its-container-when-it-should-not
+The scroll issue is fixed by using [this css fix](https://github.com/twbs/bootstrap/issues/23374#issuecomment-329742496) in [style.css](assets/css/style.css)
 
 #### 6 - CSS Warnings
 
