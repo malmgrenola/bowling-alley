@@ -11,7 +11,7 @@ Live site location:
 ![badge](https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Findex.html)
 
 Live site screenshot:
-![screenshoot image](docs/screenshot.png)
+![screenshot image](docs/screenshot.png)
 
 #### Table of Contents
 
@@ -36,16 +36,16 @@ Live site screenshot:
 
 ## UX
 
-The site owners goal is to get more lane bookings and dinner reservations & present the alley and its services to the potential customers. The current avalible activities is bowling, billiards, birtday party bowling & eat & drink in the restaurant.
+The site owners goal is to get more lane bookings and dinner reservations & present the alley and its services to the potential customers. The current available activities are bowling, billiards, birthday party bowling & eat & drink in the restaurant.
 
-The website's typical user is a young to midage customer with their cellphone that would like to do activities with friends later the same day or near future.
-Another category is a typical midage person, with children, using the website on the computer and would like to arrange a children birthday party or bowl with friends.
+The website's typical user is a young to mid aged customer with their cell phone that would like to do activities with friends later the same day or near future.
+Another category is a typical mid age person, with children, using the website on the computer and would like to arrange a children birthday party or bowl with friends.
 
-- As a customer I would like to see avalible activities and book them, for a great evening out.
+- As a customer I would like to see available activities and book them, for a great evening out.
 - As a user, I want to book a children birthday party, so that I be ensured that my child with friends get a great party.
-- As a user I can find to all avalible social media platforms
+- As a user I can find to all available social media platforms
 - as a user I would like to find all contact information so I can locate and contact the company.
-- as a user I can find the restaurant meny.
+- as a user I can find the restaurant menu.
 - as a mobile user I can quickly find links to social media accounts so I can stay up to date on any platform.
 
 Site wireframes:
@@ -54,14 +54,14 @@ Site wireframes:
 - [Activities page](docs/wireframes/wf-activities.png)
 - [Find us page](docs/wireframes/wf-findus.png)
 - [Restaurants page](docs/wireframes/wf-restaurant.png)
-- [Bookning page](docs/wireframes/wf-booking.png)
+- [Booking page](docs/wireframes/wf-booking.png)
 
 ## Features
 
-The wesite contains a clear navigation on every page.
-The site is based on a navigational hierarchical tree structur.
+The website contains a clear navigation on every page.
+The site is based on a navigational hierarchical tree structure.
 Navigation bar is responsive and will fold down to a burger menu when it wont fit the size.
-On mobile (samll screen) devices hamburger menu should contain quick access to social media links.
+On mobile (small screen) devices hamburger menu should contain quick access to social media links.
 Current page is highlighted in the navigation bar.
 
 [Navigation bar wireframe example](docs/wireframes/wf-navigation.png)
@@ -74,7 +74,7 @@ Current page is highlighted in the navigation bar.
   - Restaurant
   - Booking
 
-Each page includes a footer element containing all the neccesary information needed at a glance for the user. This would include links to social media platforms, address information & opening hours.
+Each page includes a footer element containing all the necessary information needed at a glance for the user. This would include links to social media platforms, address information & opening hours.
 Additional elements such as booking rules download, gdpr information, vacancy Section could also be found in the footer at a later stage.
 The footer element is responsive and should flow with the device screen size.
 [Footer wireframe example](docs/wireframes/wf-footer.png)
@@ -172,13 +172,13 @@ The selection of good wines is frequently updated but we always keep your favour
 
 #### Style Information
 
-##### Selected Typfaces:
+##### Selected Typefaces:
 
 - Logo: **Playball**, cursive
 - Header: **Lato**, sans-serif
 - Text: **Raleway**, sans-serif
 
-##### Color Schema
+##### Color Scheme
 
 The sites color schema wireframe
 
@@ -186,19 +186,19 @@ The sites color schema wireframe
 
 ```
 /* Bowling alley colors */
-.bowling-ally-1-hex {
+.bowling-alley-1-hex {
   color: #3f0061;
 }
-.bowling-ally-2-hex {
+.bowling-alley-2-hex {
   color: #003c61;
 }
-.bowling-ally-3-hex {
+.bowling-alley-3-hex {
   color: #18614a;
 }
-.bowling-ally-4-hex {
+.bowling-alley-4-hex {
   color: #613901;
 }
-.bowling-ally-5-hex {
+.bowling-alley-5-hex {
   color: #61291a;
 }
 ```
@@ -228,8 +228,8 @@ All HTML and CSS is validated with [W3C Validator](https://validator.w3.org/)
 As specified in [User's guide for the W3C Markup Validator](https://dev.w3.org/validator/htdocs/docs/users.html) calls can be made to the validator.
 This site validator test are specified below in this section.
 
-Amazon Devie Farm is used for devie testing
-Selected devices is tageted:
+Amazon Device Farm is used for device testing
+Selected devices is targeted:
 
 - Samsung Galaxy A40 (OS 9.0)
 - Samsung Galaxy S9 (OS 8.0.0)
@@ -238,14 +238,14 @@ Selected devices is tageted:
 - Apple iPad Pro 11 (OS 12.1)
 - Apple iPhone 12 Pro Max (OS 14.3)
 - Apple Macbook Pro ([Chrome](https://www.google.com/chrome/), [Safari](https://www.apple.com/safari/), [Firefox](https://www.mozilla.org/en-US/firefox/new/))
-- Azus ZenBook ([Chrome](https://www.google.com/chrome/), [Microsoft Edge](https://www.microsoft.com/en-us/edge), [Firefox](https://www.mozilla.org/en-US/firefox/new/))
+- Asus ZenBook ([Chrome](https://www.google.com/chrome/), [Microsoft Edge](https://www.microsoft.com/en-us/edge), [Firefox](https://www.mozilla.org/en-US/firefox/new/))
 
-Login's for accounts to Device services [1Password](https://1password.com)
+Login for accounts to Device services [1Password](https://1password.com)
 Please contact [Ola Malmgren](mailto:malmgrenola@gmail.com) for access.
 
-Itterate all user stories in the UX Section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+Iterate all user stories in the UX Section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-No automated Tests is setup for this project.
+No automated Tests is set up for this project.
 
 1. Validator tests, confirm no errors on each file listed.
 
@@ -259,15 +259,15 @@ No automated Tests is setup for this project.
    8. [validate restaurant.html](http://validator.w3.org/check?uri=https%3A%2F%2Fmalmgrenola.github.io%2Fbowling-alley%2Frestaurant.html)
 
 2) Layout & External links:
-   1. confirm that the user can see and book all avalible activities (including birthday party) on `activities.html`, `index.html` & `landing-newsletter.html` in the activities section.
-   2. confirm all social media icons correctly linked and opens a blank page on `footer` section on every page, `findus.html` & the hamburger menu on a mobile device.
+   1. confirm that the user can see and book all available activities (including birthday party) on `activities.html`, `index.html` & `landing-newsletter.html` in the activities section.
+   2. confirm all social media icons correctly linked and open a blank page on the `footer` section on every page, `findus.html` & the hamburger menu on a mobile device.
    3. confirm correct opening hours on `index.html` in the opening hours section & on `footer` section on every page.
    4. confirm correct contact information and links (street, tel & email) opens a blank page on `footer` section on every page, `findus.html` & `index.html`.
    5. confirm correct download of menu & that it opens a blank page on `restaurant.html`
-   6. confirm that there is no missing images on all pages (use devtools / network).
+   6. confirm that there are no missing images on all pages (use devtools / network).
 3) Forms:
    1. navigate to local `index.html` -> newsletter signup section.
-   2. confirm that faulty address feedbacks error to the user.
+   2. confirm that faulty address feedback error to the user.
    3. confirm that submit takes user to `landing-newsletter.html`
    4. navigate to local `booking.html`.
    5. confirm faulty input in all form elements.
@@ -282,23 +282,23 @@ This section mentions interesting bugs or problems discovered during the testing
 
 #### 1 - Social Links
 
-Social icons & links on site has the url's set to generic social media sites and not to any propper social account.
+Social icons & links on site have the url's set to generic social media sites and not to any propper social account.
 
 #### 2 - Newsletter & Booking form Form
 
-Newsletter signup & booking form ends up in on a fake landing page & nothing is sent to server side at all.
+Newsletter signup & booking form ends up on a fake landing page & nothing is sent to the server side at all.
 
 #### 4 - Address information
 
-All address, email & phone information on website is a fake.
+All address, email & phone information on websites is a fake.
 
-#### 5 - Download menu
+#### 5 - Restaurant downloadable menu pdf
 
-The menu is currently without propper content.
+The resturamenu is currently without proper content.
 
-#### 6 - switch between landscape and portait
+#### 6 - switch between landscape and portrait
 
-On some devices the switch between landscape and portait missaligns the scrollbar.
+On some devices the switch between landscape and portrait misaligns the scrollbar.
 
 Landscape menu that "grows" under the screen cant be scrolled with bootstrap on most mobile devices.
 
@@ -310,19 +310,20 @@ On windows using Explorer or Firefox (latest version) with a screen height small
 
 #### 7 - CSS Warnings
 
-`-moz-transition`,`-webkit-transition` & `-o-transition` is still in `style.css` file even if it seems like they could most likley be removed.
+`-moz-transition`,`-webkit-transition` & `-o-transition` is still in `style.css` file even if it seems like they could most likely be removed.
 
 Based on comments, for example [here](https://stackoverflow.com/questions/52490004/what-are-all-of-these-w3c-css-validation-warnings-about) and the fact that `code institute` keeps them in their examples, decision is to not remove code at this point.
 
 ## Development & Deployment
 
 Development on this site happens primary on branch [main](https://github.com/malmgrenola/bowling-alley/tree/main).
-branch [main](https://github.com/malmgrenola/bowling-alley/tree/main) also acts as staging enviorment.
+branch [main](https://github.com/malmgrenola/bowling-alley/tree/main) also acts as a staging environment.
 
 If you would like to contribute please fork repo and open pull requests.
 Before opening pull requests, please confirm all items in [Testing](#Testing) section in this document.
 
 Deployment is done by opening a Pull Request and merge to branch 'production'.
+Only changes to website code will be deployed to `production` branch.
 
 This site is currently deployed with gitHub Pages.
 The branch 'production' and the "/(root)" folder is used.
@@ -330,14 +331,14 @@ Deployment url: https://malmgrenola.github.io/bowling-alley/
 
 How to deploy is found [here](https://pages.github.com/).
 
-local development can be previewed as local files in browser without any http-server.
+local development can be previewed as local files in the browser without any http-server.
 
 ### Tools
 
-Any text IDE can be used. [Atom](https://atom.io/) (with [prettier](https://atom.io/packages/prettier-atom)) is recomended.
+Any text IDE can be used. [Atom](https://atom.io/) (with [prettier](https://atom.io/packages/prettier-atom)) is recommended.
 
 - [Adobe Photoshop](https://www.adobe.com/se/products/photoshop.html) is used to enhance and optimize images.
-- [ami.responsivedesign.is](http://ami.responsivedesign.is/) is used to generate screenshot image.
+- [ami.responsivedesign.is](http://ami.responsivedesign.is/) is used to generate a screenshot image.
 
 ## Credits
 
